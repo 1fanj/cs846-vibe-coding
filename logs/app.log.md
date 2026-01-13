@@ -3617,3 +3617,15 @@
 - logger: vibe
 - msg: post_created: 1 by e2euser
 
+### INFO - 2026-01-13 14:01:38,162
+- logger: vibe
+- msg: database_initialized
+
+### INFO - 2026-01-13 14:01:39,328
+- logger: vibe
+- msg: user_registered: e2euser
+
+### INFO - 2026-01-13 14:01:39,630
+- logger: vibe
+- msg: post_created: 1 by e2euser
+
