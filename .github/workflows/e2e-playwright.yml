@@ -8,7 +8,7 @@ on:
 
 jobs:
   e2e:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -23,10 +23,16 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Setup Playwright and browsers
-        uses: microsoft/playwright-github-action@v1
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          browsers: chromium,firefox,webkit
+          node-version: '18'
+
+      - name: Install Playwright browsers
+        run: |
+          npm init -y
+          npm i -D playwright
+          npx playwright install --with-deps
 
       - name: Run E2E Playwright test
         run: |
