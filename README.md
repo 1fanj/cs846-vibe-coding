@@ -49,6 +49,20 @@ PYTHONPATH=. python3 scripts/python_client.py
 PYTHONPATH=. python3 scripts/generate_openapi.py
 ```
 
+Notes on CI and E2E testing
+---------------------------
+- The Playwright CI workflow was removed from this repository. If you want to run the end-to-end UI test locally:
+
+```bash
+python -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+./.venv/bin/playwright install
+PYTHONPATH=. ./.venv/bin/pytest tests/test_e2e_playwright.py -q
+```
+
+This will create a temporary database for the test and download Playwright browsers into the venv.
+
 Logs
 ----
 Logs are written to `logs/app.log.json` and `logs/app.log.md`.
