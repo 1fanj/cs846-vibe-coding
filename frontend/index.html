@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Vibe - Microblog (UI)</title>
+  <link rel="stylesheet" href="/ui/style.css">
+ </head>
+<body>
+  <div class="container">
+    <h1>Vibe</h1>
+
+    <section id="auth">
+      <div id="register">
+        <h2>Register</h2>
+        <input id="reg_username" placeholder="username" />
+        <input id="reg_display" placeholder="display name" />
+        <input id="reg_password" type="password" placeholder="password" />
+        <button id="btn_register">Register</button>
+      </div>
+
+      <div id="login">
+        <h2>Login</h2>
+        <input id="login_username" placeholder="username" />
+        <input id="login_password" type="password" placeholder="password" />
+        <button id="btn_login">Login</button>
+      </div>
+
+      <div id="me" style="display:none">
+        <p>Logged in as <span id="me_user"></span></p>
+        <button id="btn_logout">Logout</button>
+      </div>
+    </section>
+
+    <section id="post">
+      <h2>Create Post</h2>
+      <textarea id="post_content" rows="3" placeholder="What's happening? (max 280 chars)"></textarea>
+      <button id="btn_post">Post</button>
+    </section>
+
+    <section id="feed">
+      <h2>Global Feed</h2>
+      <div id="posts"></div>
+      <button id="btn_refresh">Refresh</button>
+    </section>
+  </div>
+
+  <script src="/ui/app.js"></script>
+</body>
+</html>

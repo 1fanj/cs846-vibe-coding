@@ -1,0 +1,798 @@
+{"asctime": "2026-01-13 00:00:00,000", "levelname": "INFO", "name": "vibe", "message": "database_initialized"}
+{"asctime": "2026-01-13 00:00:01,000", "levelname": "INFO", "name": "vibe", "message": "user_registered: alice"}
+{"asctime": "2026-01-13 00:00:02,000", "levelname": "INFO", "name": "vibe", "message": "user_login: alice"}
+{"asctime": "2026-01-13 00:00:03,000", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by bob"}
+{"asctime": "2026-01-13 00:00:04,000", "levelname": "INFO", "name": "vibe", "message": "post_liked: 1 by dave"}
+{"asctime": "2026-01-13 12:22:03,804", "levelname": "INFO", "name": "vibe", "message": "user_registered: alice", "taskName": null}
+{"asctime": "2026-01-13 12:22:03,815", "levelname": "INFO", "name": "vibe", "message": "user_login: alice", "taskName": null}
+{"asctime": "2026-01-13 12:22:38,478", "levelname": "INFO", "name": "vibe", "message": "user_registered: alice", "taskName": null}
+{"asctime": "2026-01-13 12:22:38,489", "levelname": "INFO", "name": "vibe", "message": "user_login: alice", "taskName": null}
+{"asctime": "2026-01-13 12:22:38,510", "levelname": "INFO", "name": "vibe", "message": "user_registered: bob", "taskName": null}
+{"asctime": "2026-01-13 12:22:38,516", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by bob", "taskName": null}
+{"asctime": "2026-01-13 12:22:38,522", "levelname": "INFO", "name": "vibe", "message": "post_created: 2 by bob", "taskName": null}
+{"asctime": "2026-01-13 12:22:38,548", "levelname": "INFO", "name": "vibe", "message": "user_registered: carol", "taskName": null}
+{"asctime": "2026-01-13 12:22:38,559", "levelname": "INFO", "name": "vibe", "message": "user_registered: dave", "taskName": null}
+{"asctime": "2026-01-13 12:22:38,563", "levelname": "INFO", "name": "vibe", "message": "post_created: 3 by carol", "taskName": null}
+{"asctime": "2026-01-13 12:22:38,567", "levelname": "INFO", "name": "vibe", "message": "post_liked: 3 by dave", "taskName": null}
+{"asctime": "2026-01-13 12:22:38,591", "levelname": "INFO", "name": "vibe", "message": "user_registered: erin", "taskName": null}
+{"asctime": "2026-01-13 12:22:38,595", "levelname": "INFO", "name": "vibe", "message": "post_created: 4 by erin", "taskName": null}
+{"asctime": "2026-01-13 12:22:38,599", "levelname": "INFO", "name": "vibe", "message": "post_created: 5 by erin", "taskName": null}
+{"asctime": "2026-01-13 12:22:38,603", "levelname": "INFO", "name": "vibe", "message": "tests_completed", "taskName": null}
+{"asctime": "2026-01-13 12:27:18,871", "levelname": "INFO", "name": "vibe", "message": "user_registered: paul", "taskName": null}
+{"asctime": "2026-01-13 12:27:18,876", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by paul", "taskName": null}
+{"asctime": "2026-01-13 12:27:18,881", "levelname": "INFO", "name": "vibe", "message": "post_created: 2 by paul", "taskName": null}
+{"asctime": "2026-01-13 12:27:18,886", "levelname": "INFO", "name": "vibe", "message": "post_created: 3 by paul", "taskName": null}
+{"asctime": "2026-01-13 12:28:44,289", "levelname": "INFO", "name": "vibe", "message": "user_registered: paul", "taskName": null}
+{"asctime": "2026-01-13 12:28:44,294", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by paul", "taskName": null}
+{"asctime": "2026-01-13 12:28:44,300", "levelname": "INFO", "name": "vibe", "message": "post_created: 2 by paul", "taskName": null}
+{"asctime": "2026-01-13 12:28:44,304", "levelname": "INFO", "name": "vibe", "message": "post_created: 3 by paul", "taskName": null}
+{"asctime": "2026-01-13 12:28:44,308", "levelname": "INFO", "name": "vibe", "message": "post_created: 4 by paul", "taskName": null}
+{"asctime": "2026-01-13 12:28:44,312", "levelname": "INFO", "name": "vibe", "message": "post_created: 5 by paul", "taskName": null}
+{"asctime": "2026-01-13 12:28:44,316", "levelname": "INFO", "name": "vibe", "message": "post_created: 6 by paul", "taskName": null}
+{"asctime": "2026-01-13 12:28:44,320", "levelname": "INFO", "name": "vibe", "message": "post_created: 7 by paul", "taskName": null}
+{"asctime": "2026-01-13 12:28:44,324", "levelname": "INFO", "name": "vibe", "message": "post_created: 8 by paul", "taskName": null}
+{"asctime": "2026-01-13 12:28:44,327", "levelname": "INFO", "name": "vibe", "message": "post_created: 9 by paul", "taskName": null}
+{"asctime": "2026-01-13 12:28:44,331", "levelname": "INFO", "name": "vibe", "message": "post_created: 10 by paul", "taskName": null}
+{"asctime": "2026-01-13 12:28:44,334", "levelname": "INFO", "name": "vibe", "message": "post_created: 11 by paul", "taskName": null}
+{"asctime": "2026-01-13 12:28:44,338", "levelname": "INFO", "name": "vibe", "message": "post_created: 12 by paul", "taskName": null}
+{"asctime": "2026-01-13 12:28:44,342", "levelname": "INFO", "name": "vibe", "message": "post_created: 13 by paul", "taskName": null}
+{"asctime": "2026-01-13 12:28:44,346", "levelname": "INFO", "name": "vibe", "message": "post_created: 14 by paul", "taskName": null}
+{"asctime": "2026-01-13 12:28:44,350", "levelname": "INFO", "name": "vibe", "message": "post_created: 15 by paul", "taskName": null}
+{"asctime": "2026-01-13 12:28:44,353", "levelname": "INFO", "name": "vibe", "message": "post_created: 16 by paul", "taskName": null}
+{"asctime": "2026-01-13 12:28:44,357", "levelname": "INFO", "name": "vibe", "message": "post_created: 17 by paul", "taskName": null}
+{"asctime": "2026-01-13 12:28:44,361", "levelname": "INFO", "name": "vibe", "message": "post_created: 18 by paul", "taskName": null}
+{"asctime": "2026-01-13 12:28:44,364", "levelname": "INFO", "name": "vibe", "message": "post_created: 19 by paul", "taskName": null}
+{"asctime": "2026-01-13 12:28:44,368", "levelname": "INFO", "name": "vibe", "message": "post_created: 20 by paul", "taskName": null}
+{"asctime": "2026-01-13 12:28:44,371", "levelname": "INFO", "name": "vibe", "message": "post_created: 21 by paul", "taskName": null}
+{"asctime": "2026-01-13 12:28:44,375", "levelname": "INFO", "name": "vibe", "message": "post_created: 22 by paul", "taskName": null}
+{"asctime": "2026-01-13 12:28:44,378", "levelname": "INFO", "name": "vibe", "message": "post_created: 23 by paul", "taskName": null}
+{"asctime": "2026-01-13 12:28:44,382", "levelname": "INFO", "name": "vibe", "message": "post_created: 24 by paul", "taskName": null}
+{"asctime": "2026-01-13 12:28:44,385", "levelname": "INFO", "name": "vibe", "message": "post_created: 25 by paul", "taskName": null}
+{"asctime": "2026-01-13 12:30:11,963", "levelname": "INFO", "name": "vibe", "message": "user_registered: alice", "taskName": null}
+{"asctime": "2026-01-13 12:30:11,975", "levelname": "INFO", "name": "vibe", "message": "user_login: alice", "taskName": null}
+{"asctime": "2026-01-13 12:30:11,995", "levelname": "INFO", "name": "vibe", "message": "user_registered: bob", "taskName": null}
+{"asctime": "2026-01-13 12:30:12,001", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by bob", "taskName": null}
+{"asctime": "2026-01-13 12:30:12,007", "levelname": "INFO", "name": "vibe", "message": "post_created: 2 by bob", "taskName": null}
+{"asctime": "2026-01-13 12:30:12,033", "levelname": "INFO", "name": "vibe", "message": "user_registered: carol", "taskName": null}
+{"asctime": "2026-01-13 12:30:12,044", "levelname": "INFO", "name": "vibe", "message": "user_registered: dave", "taskName": null}
+{"asctime": "2026-01-13 12:30:12,048", "levelname": "INFO", "name": "vibe", "message": "post_created: 3 by carol", "taskName": null}
+{"asctime": "2026-01-13 12:30:12,053", "levelname": "INFO", "name": "vibe", "message": "post_liked: 3 by dave", "taskName": null}
+{"asctime": "2026-01-13 12:30:12,077", "levelname": "INFO", "name": "vibe", "message": "user_registered: erin", "taskName": null}
+{"asctime": "2026-01-13 12:30:12,081", "levelname": "INFO", "name": "vibe", "message": "post_created: 4 by erin", "taskName": null}
+{"asctime": "2026-01-13 12:30:12,086", "levelname": "INFO", "name": "vibe", "message": "post_created: 5 by erin", "taskName": null}
+{"asctime": "2026-01-13 12:30:12,089", "levelname": "INFO", "name": "vibe", "message": "tests_completed", "taskName": null}
+{"asctime": "2026-01-13 12:30:12,108", "levelname": "INFO", "name": "vibe", "message": "user_registered: paul", "taskName": null}
+{"asctime": "2026-01-13 12:30:12,112", "levelname": "INFO", "name": "vibe", "message": "post_created: 6 by paul", "taskName": null}
+{"asctime": "2026-01-13 12:30:12,116", "levelname": "INFO", "name": "vibe", "message": "post_created: 7 by paul", "taskName": null}
+{"asctime": "2026-01-13 12:30:12,120", "levelname": "INFO", "name": "vibe", "message": "post_created: 8 by paul", "taskName": null}
+{"asctime": "2026-01-13 12:30:12,124", "levelname": "INFO", "name": "vibe", "message": "post_created: 9 by paul", "taskName": null}
+{"asctime": "2026-01-13 12:30:12,127", "levelname": "INFO", "name": "vibe", "message": "post_created: 10 by paul", "taskName": null}
+{"asctime": "2026-01-13 12:30:12,131", "levelname": "INFO", "name": "vibe", "message": "post_created: 11 by paul", "taskName": null}
+{"asctime": "2026-01-13 12:30:12,134", "levelname": "INFO", "name": "vibe", "message": "post_created: 12 by paul", "taskName": null}
+{"asctime": "2026-01-13 12:30:12,138", "levelname": "INFO", "name": "vibe", "message": "post_created: 13 by paul", "taskName": null}
+{"asctime": "2026-01-13 12:30:12,142", "levelname": "INFO", "name": "vibe", "message": "post_created: 14 by paul", "taskName": null}
+{"asctime": "2026-01-13 12:30:12,145", "levelname": "INFO", "name": "vibe", "message": "post_created: 15 by paul", "taskName": null}
+{"asctime": "2026-01-13 12:30:12,149", "levelname": "INFO", "name": "vibe", "message": "post_created: 16 by paul", "taskName": null}
+{"asctime": "2026-01-13 12:30:12,153", "levelname": "INFO", "name": "vibe", "message": "post_created: 17 by paul", "taskName": null}
+{"asctime": "2026-01-13 12:30:12,157", "levelname": "INFO", "name": "vibe", "message": "post_created: 18 by paul", "taskName": null}
+{"asctime": "2026-01-13 12:30:12,160", "levelname": "INFO", "name": "vibe", "message": "post_created: 19 by paul", "taskName": null}
+{"asctime": "2026-01-13 12:30:12,164", "levelname": "INFO", "name": "vibe", "message": "post_created: 20 by paul", "taskName": null}
+{"asctime": "2026-01-13 12:30:12,168", "levelname": "INFO", "name": "vibe", "message": "post_created: 21 by paul", "taskName": null}
+{"asctime": "2026-01-13 12:30:12,171", "levelname": "INFO", "name": "vibe", "message": "post_created: 22 by paul", "taskName": null}
+{"asctime": "2026-01-13 12:30:12,175", "levelname": "INFO", "name": "vibe", "message": "post_created: 23 by paul", "taskName": null}
+{"asctime": "2026-01-13 12:30:12,178", "levelname": "INFO", "name": "vibe", "message": "post_created: 24 by paul", "taskName": null}
+{"asctime": "2026-01-13 12:30:12,182", "levelname": "INFO", "name": "vibe", "message": "post_created: 25 by paul", "taskName": null}
+{"asctime": "2026-01-13 12:30:12,186", "levelname": "INFO", "name": "vibe", "message": "post_created: 26 by paul", "taskName": null}
+{"asctime": "2026-01-13 12:30:12,189", "levelname": "INFO", "name": "vibe", "message": "post_created: 27 by paul", "taskName": null}
+{"asctime": "2026-01-13 12:30:12,193", "levelname": "INFO", "name": "vibe", "message": "post_created: 28 by paul", "taskName": null}
+{"asctime": "2026-01-13 12:30:12,197", "levelname": "INFO", "name": "vibe", "message": "post_created: 29 by paul", "taskName": null}
+{"asctime": "2026-01-13 12:30:12,200", "levelname": "INFO", "name": "vibe", "message": "post_created: 30 by paul", "taskName": null}
+{"asctime": "2026-01-13 12:30:12,262", "levelname": "INFO", "name": "vibe", "message": "user_registered: rluser", "taskName": null}
+{"asctime": "2026-01-13 12:30:12,266", "levelname": "INFO", "name": "vibe", "message": "post_created: 31 by rluser", "taskName": null}
+{"asctime": "2026-01-13 12:30:12,271", "levelname": "INFO", "name": "vibe", "message": "post_created: 32 by rluser", "taskName": null}
+{"asctime": "2026-01-13 12:30:12,275", "levelname": "INFO", "name": "vibe", "message": "post_created: 33 by rluser", "taskName": null}
+{"asctime": "2026-01-13 12:30:12,279", "levelname": "INFO", "name": "vibe", "message": "post_created: 34 by rluser", "taskName": null}
+{"asctime": "2026-01-13 12:31:01,165", "levelname": "INFO", "name": "vibe", "message": "user_registered: alice", "taskName": null}
+{"asctime": "2026-01-13 12:31:01,176", "levelname": "INFO", "name": "vibe", "message": "user_login: alice", "taskName": null}
+{"asctime": "2026-01-13 12:31:01,202", "levelname": "INFO", "name": "vibe", "message": "user_registered: bob", "taskName": null}
+{"asctime": "2026-01-13 12:31:01,207", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by bob", "taskName": null}
+{"asctime": "2026-01-13 12:31:01,212", "levelname": "INFO", "name": "vibe", "message": "post_created: 2 by bob", "taskName": null}
+{"asctime": "2026-01-13 12:31:01,244", "levelname": "INFO", "name": "vibe", "message": "user_registered: carol", "taskName": null}
+{"asctime": "2026-01-13 12:31:01,256", "levelname": "INFO", "name": "vibe", "message": "user_registered: dave", "taskName": null}
+{"asctime": "2026-01-13 12:31:01,260", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by carol", "taskName": null}
+{"asctime": "2026-01-13 12:31:01,266", "levelname": "INFO", "name": "vibe", "message": "post_liked: 1 by dave", "taskName": null}
+{"asctime": "2026-01-13 12:31:01,296", "levelname": "INFO", "name": "vibe", "message": "user_registered: erin", "taskName": null}
+{"asctime": "2026-01-13 12:31:01,301", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by erin", "taskName": null}
+{"asctime": "2026-01-13 12:31:01,306", "levelname": "INFO", "name": "vibe", "message": "post_created: 2 by erin", "taskName": null}
+{"asctime": "2026-01-13 12:31:01,309", "levelname": "INFO", "name": "vibe", "message": "tests_completed", "taskName": null}
+{"asctime": "2026-01-13 12:31:01,389", "levelname": "INFO", "name": "vibe", "message": "user_registered: rluser", "taskName": null}
+{"asctime": "2026-01-13 12:31:01,394", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by rluser", "taskName": null}
+{"asctime": "2026-01-13 12:31:01,399", "levelname": "INFO", "name": "vibe", "message": "post_created: 2 by rluser", "taskName": null}
+{"asctime": "2026-01-13 12:31:01,403", "levelname": "INFO", "name": "vibe", "message": "post_created: 3 by rluser", "taskName": null}
+{"asctime": "2026-01-13 12:31:20,916", "levelname": "INFO", "name": "vibe", "message": "user_registered: alice", "taskName": null}
+{"asctime": "2026-01-13 12:31:20,927", "levelname": "INFO", "name": "vibe", "message": "user_login: alice", "taskName": null}
+{"asctime": "2026-01-13 12:31:20,954", "levelname": "INFO", "name": "vibe", "message": "user_registered: bob", "taskName": null}
+{"asctime": "2026-01-13 12:31:20,959", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by bob", "taskName": null}
+{"asctime": "2026-01-13 12:31:20,965", "levelname": "INFO", "name": "vibe", "message": "post_created: 2 by bob", "taskName": null}
+{"asctime": "2026-01-13 12:31:20,996", "levelname": "INFO", "name": "vibe", "message": "user_registered: carol", "taskName": null}
+{"asctime": "2026-01-13 12:31:21,008", "levelname": "INFO", "name": "vibe", "message": "user_registered: dave", "taskName": null}
+{"asctime": "2026-01-13 12:31:21,012", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by carol", "taskName": null}
+{"asctime": "2026-01-13 12:31:21,019", "levelname": "INFO", "name": "vibe", "message": "post_liked: 1 by dave", "taskName": null}
+{"asctime": "2026-01-13 12:31:21,050", "levelname": "INFO", "name": "vibe", "message": "user_registered: erin", "taskName": null}
+{"asctime": "2026-01-13 12:31:21,055", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by erin", "taskName": null}
+{"asctime": "2026-01-13 12:31:21,061", "levelname": "INFO", "name": "vibe", "message": "post_created: 2 by erin", "taskName": null}
+{"asctime": "2026-01-13 12:31:21,065", "levelname": "INFO", "name": "vibe", "message": "tests_completed", "taskName": null}
+{"asctime": "2026-01-13 12:31:21,089", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu0", "taskName": null}
+{"asctime": "2026-01-13 12:31:21,100", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu1", "taskName": null}
+{"asctime": "2026-01-13 12:31:21,112", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu2", "taskName": null}
+{"asctime": "2026-01-13 12:31:21,123", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu3", "taskName": null}
+{"asctime": "2026-01-13 12:31:21,134", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu4", "taskName": null}
+{"asctime": "2026-01-13 12:31:21,139", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by pu0", "taskName": null}
+{"asctime": "2026-01-13 12:31:21,143", "levelname": "INFO", "name": "vibe", "message": "post_created: 2 by pu1", "taskName": null}
+{"asctime": "2026-01-13 12:31:21,147", "levelname": "INFO", "name": "vibe", "message": "post_created: 3 by pu2", "taskName": null}
+{"asctime": "2026-01-13 12:31:21,214", "levelname": "INFO", "name": "vibe", "message": "user_registered: rluser", "taskName": null}
+{"asctime": "2026-01-13 12:31:21,218", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by rluser", "taskName": null}
+{"asctime": "2026-01-13 12:31:21,223", "levelname": "INFO", "name": "vibe", "message": "post_created: 2 by rluser", "taskName": null}
+{"asctime": "2026-01-13 12:31:21,227", "levelname": "INFO", "name": "vibe", "message": "post_created: 3 by rluser", "taskName": null}
+{"asctime": "2026-01-13 12:32:41,590", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu0", "taskName": null}
+{"asctime": "2026-01-13 12:32:41,603", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu1", "taskName": null}
+{"asctime": "2026-01-13 12:32:41,614", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu2", "taskName": null}
+{"asctime": "2026-01-13 12:32:41,625", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu3", "taskName": null}
+{"asctime": "2026-01-13 12:32:41,636", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu4", "taskName": null}
+{"asctime": "2026-01-13 12:32:41,641", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by pu0", "taskName": null}
+{"asctime": "2026-01-13 12:32:41,646", "levelname": "INFO", "name": "vibe", "message": "post_created: 2 by pu1", "taskName": null}
+{"asctime": "2026-01-13 12:32:41,651", "levelname": "INFO", "name": "vibe", "message": "post_created: 3 by pu2", "taskName": null}
+{"asctime": "2026-01-13 12:32:41,655", "levelname": "INFO", "name": "vibe", "message": "post_created: 4 by pu3", "taskName": null}
+{"asctime": "2026-01-13 12:32:41,659", "levelname": "INFO", "name": "vibe", "message": "post_created: 5 by pu4", "taskName": null}
+{"asctime": "2026-01-13 12:32:41,663", "levelname": "INFO", "name": "vibe", "message": "post_created: 6 by pu0", "taskName": null}
+{"asctime": "2026-01-13 12:32:41,668", "levelname": "INFO", "name": "vibe", "message": "post_created: 7 by pu1", "taskName": null}
+{"asctime": "2026-01-13 12:32:41,672", "levelname": "INFO", "name": "vibe", "message": "post_created: 8 by pu2", "taskName": null}
+{"asctime": "2026-01-13 12:32:41,677", "levelname": "INFO", "name": "vibe", "message": "post_created: 9 by pu3", "taskName": null}
+{"asctime": "2026-01-13 12:32:41,681", "levelname": "INFO", "name": "vibe", "message": "post_created: 10 by pu4", "taskName": null}
+{"asctime": "2026-01-13 12:32:41,685", "levelname": "INFO", "name": "vibe", "message": "post_created: 11 by pu0", "taskName": null}
+{"asctime": "2026-01-13 12:32:41,689", "levelname": "INFO", "name": "vibe", "message": "post_created: 12 by pu1", "taskName": null}
+{"asctime": "2026-01-13 12:32:41,692", "levelname": "INFO", "name": "vibe", "message": "post_created: 13 by pu2", "taskName": null}
+{"asctime": "2026-01-13 12:32:41,696", "levelname": "INFO", "name": "vibe", "message": "post_created: 14 by pu3", "taskName": null}
+{"asctime": "2026-01-13 12:32:41,700", "levelname": "INFO", "name": "vibe", "message": "post_created: 15 by pu4", "taskName": null}
+{"asctime": "2026-01-13 12:33:00,646", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu0", "taskName": null}
+{"asctime": "2026-01-13 12:33:00,658", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu1", "taskName": null}
+{"asctime": "2026-01-13 12:33:00,670", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu2", "taskName": null}
+{"asctime": "2026-01-13 12:33:00,681", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu3", "taskName": null}
+{"asctime": "2026-01-13 12:33:00,692", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu4", "taskName": null}
+{"asctime": "2026-01-13 12:33:00,697", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by pu0", "taskName": null}
+{"asctime": "2026-01-13 12:33:00,702", "levelname": "INFO", "name": "vibe", "message": "post_created: 2 by pu1", "taskName": null}
+{"asctime": "2026-01-13 12:33:00,706", "levelname": "INFO", "name": "vibe", "message": "post_created: 3 by pu2", "taskName": null}
+{"asctime": "2026-01-13 12:33:00,710", "levelname": "INFO", "name": "vibe", "message": "post_created: 4 by pu3", "taskName": null}
+{"asctime": "2026-01-13 12:33:00,713", "levelname": "INFO", "name": "vibe", "message": "post_created: 5 by pu4", "taskName": null}
+{"asctime": "2026-01-13 12:33:00,717", "levelname": "INFO", "name": "vibe", "message": "post_created: 6 by pu0", "taskName": null}
+{"asctime": "2026-01-13 12:33:00,721", "levelname": "INFO", "name": "vibe", "message": "post_created: 7 by pu1", "taskName": null}
+{"asctime": "2026-01-13 12:33:00,725", "levelname": "INFO", "name": "vibe", "message": "post_created: 8 by pu2", "taskName": null}
+{"asctime": "2026-01-13 12:33:00,729", "levelname": "INFO", "name": "vibe", "message": "post_created: 9 by pu3", "taskName": null}
+{"asctime": "2026-01-13 12:33:00,733", "levelname": "INFO", "name": "vibe", "message": "post_created: 10 by pu4", "taskName": null}
+{"asctime": "2026-01-13 12:33:00,737", "levelname": "INFO", "name": "vibe", "message": "post_created: 11 by pu0", "taskName": null}
+{"asctime": "2026-01-13 12:33:00,741", "levelname": "INFO", "name": "vibe", "message": "post_created: 12 by pu1", "taskName": null}
+{"asctime": "2026-01-13 12:33:00,745", "levelname": "INFO", "name": "vibe", "message": "post_created: 13 by pu2", "taskName": null}
+{"asctime": "2026-01-13 12:33:00,749", "levelname": "INFO", "name": "vibe", "message": "post_created: 14 by pu3", "taskName": null}
+{"asctime": "2026-01-13 12:33:00,752", "levelname": "INFO", "name": "vibe", "message": "post_created: 15 by pu4", "taskName": null}
+{"asctime": "2026-01-13 12:34:32,428", "levelname": "INFO", "name": "vibe", "message": "user_registered: alice", "taskName": null}
+{"asctime": "2026-01-13 12:34:32,439", "levelname": "INFO", "name": "vibe", "message": "user_login: alice", "taskName": null}
+{"asctime": "2026-01-13 12:34:32,465", "levelname": "INFO", "name": "vibe", "message": "user_registered: bob", "taskName": null}
+{"asctime": "2026-01-13 12:34:32,470", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by bob", "taskName": null}
+{"asctime": "2026-01-13 12:34:32,476", "levelname": "INFO", "name": "vibe", "message": "post_created: 2 by bob", "taskName": null}
+{"asctime": "2026-01-13 12:34:32,508", "levelname": "INFO", "name": "vibe", "message": "user_registered: carol", "taskName": null}
+{"asctime": "2026-01-13 12:34:32,520", "levelname": "INFO", "name": "vibe", "message": "user_registered: dave", "taskName": null}
+{"asctime": "2026-01-13 12:34:32,525", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by carol", "taskName": null}
+{"asctime": "2026-01-13 12:34:32,530", "levelname": "INFO", "name": "vibe", "message": "post_liked: 1 by dave", "taskName": null}
+{"asctime": "2026-01-13 12:34:32,559", "levelname": "INFO", "name": "vibe", "message": "user_registered: erin", "taskName": null}
+{"asctime": "2026-01-13 12:34:32,563", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by erin", "taskName": null}
+{"asctime": "2026-01-13 12:34:32,568", "levelname": "INFO", "name": "vibe", "message": "post_created: 2 by erin", "taskName": null}
+{"asctime": "2026-01-13 12:34:32,571", "levelname": "INFO", "name": "vibe", "message": "tests_completed", "taskName": null}
+{"asctime": "2026-01-13 12:34:32,601", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu0", "taskName": null}
+{"asctime": "2026-01-13 12:34:32,613", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu1", "taskName": null}
+{"asctime": "2026-01-13 12:34:32,624", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu2", "taskName": null}
+{"asctime": "2026-01-13 12:34:32,636", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu3", "taskName": null}
+{"asctime": "2026-01-13 12:34:32,647", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu4", "taskName": null}
+{"asctime": "2026-01-13 12:34:32,652", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by pu0", "taskName": null}
+{"asctime": "2026-01-13 12:34:32,656", "levelname": "INFO", "name": "vibe", "message": "post_created: 2 by pu1", "taskName": null}
+{"asctime": "2026-01-13 12:34:32,660", "levelname": "INFO", "name": "vibe", "message": "post_created: 3 by pu2", "taskName": null}
+{"asctime": "2026-01-13 12:34:32,664", "levelname": "INFO", "name": "vibe", "message": "post_created: 4 by pu3", "taskName": null}
+{"asctime": "2026-01-13 12:34:32,668", "levelname": "INFO", "name": "vibe", "message": "post_created: 5 by pu4", "taskName": null}
+{"asctime": "2026-01-13 12:34:32,671", "levelname": "INFO", "name": "vibe", "message": "post_created: 6 by pu0", "taskName": null}
+{"asctime": "2026-01-13 12:34:32,675", "levelname": "INFO", "name": "vibe", "message": "post_created: 7 by pu1", "taskName": null}
+{"asctime": "2026-01-13 12:34:32,679", "levelname": "INFO", "name": "vibe", "message": "post_created: 8 by pu2", "taskName": null}
+{"asctime": "2026-01-13 12:34:32,682", "levelname": "INFO", "name": "vibe", "message": "post_created: 9 by pu3", "taskName": null}
+{"asctime": "2026-01-13 12:34:32,686", "levelname": "INFO", "name": "vibe", "message": "post_created: 10 by pu4", "taskName": null}
+{"asctime": "2026-01-13 12:34:32,690", "levelname": "INFO", "name": "vibe", "message": "post_created: 11 by pu0", "taskName": null}
+{"asctime": "2026-01-13 12:34:32,694", "levelname": "INFO", "name": "vibe", "message": "post_created: 12 by pu1", "taskName": null}
+{"asctime": "2026-01-13 12:34:32,698", "levelname": "INFO", "name": "vibe", "message": "post_created: 13 by pu2", "taskName": null}
+{"asctime": "2026-01-13 12:34:32,702", "levelname": "INFO", "name": "vibe", "message": "post_created: 14 by pu3", "taskName": null}
+{"asctime": "2026-01-13 12:34:32,706", "levelname": "INFO", "name": "vibe", "message": "post_created: 15 by pu4", "taskName": null}
+{"asctime": "2026-01-13 12:34:32,710", "levelname": "INFO", "name": "vibe", "message": "post_created: 16 by pu0", "taskName": null}
+{"asctime": "2026-01-13 12:34:32,714", "levelname": "INFO", "name": "vibe", "message": "post_created: 17 by pu1", "taskName": null}
+{"asctime": "2026-01-13 12:34:32,718", "levelname": "INFO", "name": "vibe", "message": "post_created: 18 by pu2", "taskName": null}
+{"asctime": "2026-01-13 12:34:32,721", "levelname": "INFO", "name": "vibe", "message": "post_created: 19 by pu3", "taskName": null}
+{"asctime": "2026-01-13 12:34:32,725", "levelname": "INFO", "name": "vibe", "message": "post_created: 20 by pu4", "taskName": null}
+{"asctime": "2026-01-13 12:34:32,729", "levelname": "INFO", "name": "vibe", "message": "post_created: 21 by pu0", "taskName": null}
+{"asctime": "2026-01-13 12:34:32,733", "levelname": "INFO", "name": "vibe", "message": "post_created: 22 by pu1", "taskName": null}
+{"asctime": "2026-01-13 12:34:32,736", "levelname": "INFO", "name": "vibe", "message": "post_created: 23 by pu2", "taskName": null}
+{"asctime": "2026-01-13 12:34:32,740", "levelname": "INFO", "name": "vibe", "message": "post_created: 24 by pu3", "taskName": null}
+{"asctime": "2026-01-13 12:34:32,743", "levelname": "INFO", "name": "vibe", "message": "post_created: 25 by pu4", "taskName": null}
+{"asctime": "2026-01-13 12:34:32,784", "levelname": "INFO", "name": "vibe", "message": "user_registered: rluser", "taskName": null}
+{"asctime": "2026-01-13 12:34:32,788", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by rluser", "taskName": null}
+{"asctime": "2026-01-13 12:34:32,793", "levelname": "INFO", "name": "vibe", "message": "post_created: 2 by rluser", "taskName": null}
+{"asctime": "2026-01-13 12:34:32,796", "levelname": "INFO", "name": "vibe", "message": "post_created: 3 by rluser", "taskName": null}
+{"asctime": "2026-01-13 12:37:40,521", "levelname": "INFO", "name": "vibe", "message": "user_registered: alice", "taskName": null}
+{"asctime": "2026-01-13 12:37:40,532", "levelname": "INFO", "name": "vibe", "message": "user_login: alice", "taskName": null}
+{"asctime": "2026-01-13 12:37:40,559", "levelname": "INFO", "name": "vibe", "message": "user_registered: bob", "taskName": null}
+{"asctime": "2026-01-13 12:37:40,564", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by bob", "taskName": null}
+{"asctime": "2026-01-13 12:37:40,570", "levelname": "INFO", "name": "vibe", "message": "post_created: 2 by bob", "taskName": null}
+{"asctime": "2026-01-13 12:37:40,601", "levelname": "INFO", "name": "vibe", "message": "user_registered: carol", "taskName": null}
+{"asctime": "2026-01-13 12:37:40,612", "levelname": "INFO", "name": "vibe", "message": "user_registered: dave", "taskName": null}
+{"asctime": "2026-01-13 12:37:40,616", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by carol", "taskName": null}
+{"asctime": "2026-01-13 12:37:40,621", "levelname": "INFO", "name": "vibe", "message": "post_liked: 1 by dave", "taskName": null}
+{"asctime": "2026-01-13 12:37:40,651", "levelname": "INFO", "name": "vibe", "message": "user_registered: erin", "taskName": null}
+{"asctime": "2026-01-13 12:37:40,655", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by erin", "taskName": null}
+{"asctime": "2026-01-13 12:37:40,660", "levelname": "INFO", "name": "vibe", "message": "post_created: 2 by erin", "taskName": null}
+{"asctime": "2026-01-13 12:37:40,663", "levelname": "INFO", "name": "vibe", "message": "tests_completed", "taskName": null}
+{"asctime": "2026-01-13 12:37:40,694", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu0", "taskName": null}
+{"asctime": "2026-01-13 12:37:40,706", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu1", "taskName": null}
+{"asctime": "2026-01-13 12:37:40,717", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu2", "taskName": null}
+{"asctime": "2026-01-13 12:37:40,728", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu3", "taskName": null}
+{"asctime": "2026-01-13 12:37:40,739", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu4", "taskName": null}
+{"asctime": "2026-01-13 12:37:40,744", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by pu0", "taskName": null}
+{"asctime": "2026-01-13 12:37:40,748", "levelname": "INFO", "name": "vibe", "message": "post_created: 2 by pu1", "taskName": null}
+{"asctime": "2026-01-13 12:37:40,752", "levelname": "INFO", "name": "vibe", "message": "post_created: 3 by pu2", "taskName": null}
+{"asctime": "2026-01-13 12:37:40,755", "levelname": "INFO", "name": "vibe", "message": "post_created: 4 by pu3", "taskName": null}
+{"asctime": "2026-01-13 12:37:40,759", "levelname": "INFO", "name": "vibe", "message": "post_created: 5 by pu4", "taskName": null}
+{"asctime": "2026-01-13 12:37:40,763", "levelname": "INFO", "name": "vibe", "message": "post_created: 6 by pu0", "taskName": null}
+{"asctime": "2026-01-13 12:37:40,767", "levelname": "INFO", "name": "vibe", "message": "post_created: 7 by pu1", "taskName": null}
+{"asctime": "2026-01-13 12:37:40,770", "levelname": "INFO", "name": "vibe", "message": "post_created: 8 by pu2", "taskName": null}
+{"asctime": "2026-01-13 12:37:40,774", "levelname": "INFO", "name": "vibe", "message": "post_created: 9 by pu3", "taskName": null}
+{"asctime": "2026-01-13 12:37:40,778", "levelname": "INFO", "name": "vibe", "message": "post_created: 10 by pu4", "taskName": null}
+{"asctime": "2026-01-13 12:37:40,782", "levelname": "INFO", "name": "vibe", "message": "post_created: 11 by pu0", "taskName": null}
+{"asctime": "2026-01-13 12:37:40,786", "levelname": "INFO", "name": "vibe", "message": "post_created: 12 by pu1", "taskName": null}
+{"asctime": "2026-01-13 12:37:40,790", "levelname": "INFO", "name": "vibe", "message": "post_created: 13 by pu2", "taskName": null}
+{"asctime": "2026-01-13 12:37:40,794", "levelname": "INFO", "name": "vibe", "message": "post_created: 14 by pu3", "taskName": null}
+{"asctime": "2026-01-13 12:37:40,798", "levelname": "INFO", "name": "vibe", "message": "post_created: 15 by pu4", "taskName": null}
+{"asctime": "2026-01-13 12:37:40,802", "levelname": "INFO", "name": "vibe", "message": "post_created: 16 by pu0", "taskName": null}
+{"asctime": "2026-01-13 12:37:40,805", "levelname": "INFO", "name": "vibe", "message": "post_created: 17 by pu1", "taskName": null}
+{"asctime": "2026-01-13 12:37:40,809", "levelname": "INFO", "name": "vibe", "message": "post_created: 18 by pu2", "taskName": null}
+{"asctime": "2026-01-13 12:37:40,813", "levelname": "INFO", "name": "vibe", "message": "post_created: 19 by pu3", "taskName": null}
+{"asctime": "2026-01-13 12:37:40,816", "levelname": "INFO", "name": "vibe", "message": "post_created: 20 by pu4", "taskName": null}
+{"asctime": "2026-01-13 12:37:40,820", "levelname": "INFO", "name": "vibe", "message": "post_created: 21 by pu0", "taskName": null}
+{"asctime": "2026-01-13 12:37:40,824", "levelname": "INFO", "name": "vibe", "message": "post_created: 22 by pu1", "taskName": null}
+{"asctime": "2026-01-13 12:37:40,827", "levelname": "INFO", "name": "vibe", "message": "post_created: 23 by pu2", "taskName": null}
+{"asctime": "2026-01-13 12:37:40,831", "levelname": "INFO", "name": "vibe", "message": "post_created: 24 by pu3", "taskName": null}
+{"asctime": "2026-01-13 12:37:40,835", "levelname": "INFO", "name": "vibe", "message": "post_created: 25 by pu4", "taskName": null}
+{"asctime": "2026-01-13 12:37:40,875", "levelname": "INFO", "name": "vibe", "message": "user_registered: rluser", "taskName": null}
+{"asctime": "2026-01-13 12:37:40,880", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by rluser", "taskName": null}
+{"asctime": "2026-01-13 12:37:40,884", "levelname": "INFO", "name": "vibe", "message": "post_created: 2 by rluser", "taskName": null}
+{"asctime": "2026-01-13 12:37:40,888", "levelname": "INFO", "name": "vibe", "message": "post_created: 3 by rluser", "taskName": null}
+{"asctime": "2026-01-13 12:47:11,361", "levelname": "INFO", "name": "vibe", "message": "database_initialized", "taskName": "Task-2"}
+{"asctime": "2026-01-13 12:47:54,017", "levelname": "INFO", "name": "vibe", "message": "database_initialized", "taskName": "Task-2"}
+{"asctime": "2026-01-13 12:48:07,236", "levelname": "INFO", "name": "vibe", "message": "user_registered: smoke_test", "taskName": null}
+{"asctime": "2026-01-13 12:49:48,544", "levelname": "INFO", "name": "vibe", "message": "database_initialized", "taskName": "Task-2"}
+{"asctime": "2026-01-13 12:50:00,679", "levelname": "INFO", "name": "vibe", "message": "user_registered: alice", "taskName": null}
+{"asctime": "2026-01-13 12:50:00,700", "levelname": "INFO", "name": "vibe", "message": "user_login: alice", "taskName": null}
+{"asctime": "2026-01-13 12:50:08,799", "levelname": "INFO", "name": "vibe", "message": "user_registered: alice2", "taskName": null}
+{"asctime": "2026-01-13 12:50:08,813", "levelname": "INFO", "name": "vibe", "message": "user_login: alice2", "taskName": null}
+{"asctime": "2026-01-13 12:50:08,822", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by alice2", "taskName": null}
+{"asctime": "2026-01-13 12:52:02,183", "levelname": "INFO", "name": "vibe", "message": "database_initialized", "taskName": "Task-2"}
+{"asctime": "2026-01-13 12:52:14,273", "levelname": "INFO", "name": "vibe", "message": "user_login: alice", "taskName": null}
+{"asctime": "2026-01-13 12:52:14,302", "levelname": "INFO", "name": "vibe", "message": "post_created: 2 by alice", "taskName": null}
+{"asctime": "2026-01-13 12:52:14,334", "levelname": "INFO", "name": "vibe", "message": "post_liked: 1 by alice", "taskName": null}
+{"asctime": "2026-01-13 12:57:45,914", "levelname": "INFO", "name": "vibe", "message": "database_initialized", "taskName": "Task-2"}
+{"asctime": "2026-01-13 12:59:21,290", "levelname": "INFO", "name": "vibe", "message": "database_initialized", "taskName": "Task-2"}
+{"asctime": "2026-01-13 13:00:18,765", "levelname": "INFO", "name": "vibe", "message": "user_registered: 1fanj", "taskName": null}
+{"asctime": "2026-01-13 13:00:28,621", "levelname": "INFO", "name": "vibe", "message": "post_created: 3 by 1fanj", "taskName": null}
+{"asctime": "2026-01-13 13:00:31,793", "levelname": "INFO", "name": "vibe", "message": "post_liked: 3 by 1fanj", "taskName": null}
+{"asctime": "2026-01-13 13:02:27,924", "levelname": "INFO", "name": "vibe", "message": "user_registered: user1", "taskName": null}
+{"asctime": "2026-01-13 13:02:27,930", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by user1", "taskName": null}
+{"asctime": "2026-01-13 13:02:38,855", "levelname": "INFO", "name": "vibe", "message": "user_registered: user1", "taskName": null}
+{"asctime": "2026-01-13 13:02:38,860", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by user1", "taskName": null}
+{"asctime": "2026-01-13 13:09:14,982", "levelname": "INFO", "name": "vibe", "message": "user_registered: alice", "taskName": null}
+{"asctime": "2026-01-13 13:09:14,993", "levelname": "INFO", "name": "vibe", "message": "user_login: alice", "taskName": null}
+{"asctime": "2026-01-13 13:09:15,020", "levelname": "INFO", "name": "vibe", "message": "user_registered: bob", "taskName": null}
+{"asctime": "2026-01-13 13:09:15,025", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by bob", "taskName": null}
+{"asctime": "2026-01-13 13:09:15,031", "levelname": "INFO", "name": "vibe", "message": "post_created: 2 by bob", "taskName": null}
+{"asctime": "2026-01-13 13:09:15,063", "levelname": "INFO", "name": "vibe", "message": "user_registered: carol", "taskName": null}
+{"asctime": "2026-01-13 13:09:15,074", "levelname": "INFO", "name": "vibe", "message": "user_registered: dave", "taskName": null}
+{"asctime": "2026-01-13 13:09:15,078", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by carol", "taskName": null}
+{"asctime": "2026-01-13 13:09:15,084", "levelname": "INFO", "name": "vibe", "message": "post_liked: 1 by dave", "taskName": null}
+{"asctime": "2026-01-13 13:09:15,115", "levelname": "INFO", "name": "vibe", "message": "user_registered: erin", "taskName": null}
+{"asctime": "2026-01-13 13:09:15,120", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by erin", "taskName": null}
+{"asctime": "2026-01-13 13:09:15,125", "levelname": "INFO", "name": "vibe", "message": "post_created: 2 by erin", "taskName": null}
+{"asctime": "2026-01-13 13:09:15,129", "levelname": "INFO", "name": "vibe", "message": "tests_completed", "taskName": null}
+{"asctime": "2026-01-13 13:09:15,159", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu0", "taskName": null}
+{"asctime": "2026-01-13 13:09:15,171", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu1", "taskName": null}
+{"asctime": "2026-01-13 13:09:15,182", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu2", "taskName": null}
+{"asctime": "2026-01-13 13:09:15,193", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu3", "taskName": null}
+{"asctime": "2026-01-13 13:09:15,204", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu4", "taskName": null}
+{"asctime": "2026-01-13 13:09:15,209", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by pu0", "taskName": null}
+{"asctime": "2026-01-13 13:09:15,215", "levelname": "INFO", "name": "vibe", "message": "post_created: 2 by pu1", "taskName": null}
+{"asctime": "2026-01-13 13:09:15,219", "levelname": "INFO", "name": "vibe", "message": "post_created: 3 by pu2", "taskName": null}
+{"asctime": "2026-01-13 13:09:15,223", "levelname": "INFO", "name": "vibe", "message": "post_created: 4 by pu3", "taskName": null}
+{"asctime": "2026-01-13 13:09:15,227", "levelname": "INFO", "name": "vibe", "message": "post_created: 5 by pu4", "taskName": null}
+{"asctime": "2026-01-13 13:09:15,231", "levelname": "INFO", "name": "vibe", "message": "post_created: 6 by pu0", "taskName": null}
+{"asctime": "2026-01-13 13:09:15,235", "levelname": "INFO", "name": "vibe", "message": "post_created: 7 by pu1", "taskName": null}
+{"asctime": "2026-01-13 13:09:15,239", "levelname": "INFO", "name": "vibe", "message": "post_created: 8 by pu2", "taskName": null}
+{"asctime": "2026-01-13 13:09:15,243", "levelname": "INFO", "name": "vibe", "message": "post_created: 9 by pu3", "taskName": null}
+{"asctime": "2026-01-13 13:09:15,247", "levelname": "INFO", "name": "vibe", "message": "post_created: 10 by pu4", "taskName": null}
+{"asctime": "2026-01-13 13:09:15,252", "levelname": "INFO", "name": "vibe", "message": "post_created: 11 by pu0", "taskName": null}
+{"asctime": "2026-01-13 13:09:15,256", "levelname": "INFO", "name": "vibe", "message": "post_created: 12 by pu1", "taskName": null}
+{"asctime": "2026-01-13 13:09:15,261", "levelname": "INFO", "name": "vibe", "message": "post_created: 13 by pu2", "taskName": null}
+{"asctime": "2026-01-13 13:09:15,265", "levelname": "INFO", "name": "vibe", "message": "post_created: 14 by pu3", "taskName": null}
+{"asctime": "2026-01-13 13:09:15,269", "levelname": "INFO", "name": "vibe", "message": "post_created: 15 by pu4", "taskName": null}
+{"asctime": "2026-01-13 13:09:15,273", "levelname": "INFO", "name": "vibe", "message": "post_created: 16 by pu0", "taskName": null}
+{"asctime": "2026-01-13 13:09:15,277", "levelname": "INFO", "name": "vibe", "message": "post_created: 17 by pu1", "taskName": null}
+{"asctime": "2026-01-13 13:09:15,281", "levelname": "INFO", "name": "vibe", "message": "post_created: 18 by pu2", "taskName": null}
+{"asctime": "2026-01-13 13:09:15,285", "levelname": "INFO", "name": "vibe", "message": "post_created: 19 by pu3", "taskName": null}
+{"asctime": "2026-01-13 13:09:15,289", "levelname": "INFO", "name": "vibe", "message": "post_created: 20 by pu4", "taskName": null}
+{"asctime": "2026-01-13 13:09:15,294", "levelname": "INFO", "name": "vibe", "message": "post_created: 21 by pu0", "taskName": null}
+{"asctime": "2026-01-13 13:09:15,298", "levelname": "INFO", "name": "vibe", "message": "post_created: 22 by pu1", "taskName": null}
+{"asctime": "2026-01-13 13:09:15,302", "levelname": "INFO", "name": "vibe", "message": "post_created: 23 by pu2", "taskName": null}
+{"asctime": "2026-01-13 13:09:15,305", "levelname": "INFO", "name": "vibe", "message": "post_created: 24 by pu3", "taskName": null}
+{"asctime": "2026-01-13 13:09:15,309", "levelname": "INFO", "name": "vibe", "message": "post_created: 25 by pu4", "taskName": null}
+{"asctime": "2026-01-13 13:09:15,352", "levelname": "INFO", "name": "vibe", "message": "user_registered: rluser", "taskName": null}
+{"asctime": "2026-01-13 13:09:15,357", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by rluser", "taskName": null}
+{"asctime": "2026-01-13 13:09:15,362", "levelname": "INFO", "name": "vibe", "message": "post_created: 2 by rluser", "taskName": null}
+{"asctime": "2026-01-13 13:09:15,366", "levelname": "INFO", "name": "vibe", "message": "post_created: 3 by rluser", "taskName": null}
+{"asctime": "2026-01-13 13:09:15,410", "levelname": "INFO", "name": "vibe", "message": "user_registered: user1", "taskName": null}
+{"asctime": "2026-01-13 13:09:15,415", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by user1", "taskName": null}
+{"asctime": "2026-01-13 13:10:36,194", "levelname": "INFO", "name": "vibe", "message": "user_registered: alice", "taskName": null}
+{"asctime": "2026-01-13 13:10:36,205", "levelname": "INFO", "name": "vibe", "message": "user_login: alice", "taskName": null}
+{"asctime": "2026-01-13 13:10:36,232", "levelname": "INFO", "name": "vibe", "message": "user_registered: bob", "taskName": null}
+{"asctime": "2026-01-13 13:10:36,237", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by bob", "taskName": null}
+{"asctime": "2026-01-13 13:10:36,243", "levelname": "INFO", "name": "vibe", "message": "post_created: 2 by bob", "taskName": null}
+{"asctime": "2026-01-13 13:10:36,277", "levelname": "INFO", "name": "vibe", "message": "user_registered: carol", "taskName": null}
+{"asctime": "2026-01-13 13:10:36,289", "levelname": "INFO", "name": "vibe", "message": "user_registered: dave", "taskName": null}
+{"asctime": "2026-01-13 13:10:36,293", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by carol", "taskName": null}
+{"asctime": "2026-01-13 13:10:36,299", "levelname": "INFO", "name": "vibe", "message": "post_liked: 1 by dave", "taskName": null}
+{"asctime": "2026-01-13 13:10:36,331", "levelname": "INFO", "name": "vibe", "message": "user_registered: erin", "taskName": null}
+{"asctime": "2026-01-13 13:10:36,335", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by erin", "taskName": null}
+{"asctime": "2026-01-13 13:10:36,341", "levelname": "INFO", "name": "vibe", "message": "post_created: 2 by erin", "taskName": null}
+{"asctime": "2026-01-13 13:10:36,344", "levelname": "INFO", "name": "vibe", "message": "tests_completed", "taskName": null}
+{"asctime": "2026-01-13 13:10:36,375", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu0", "taskName": null}
+{"asctime": "2026-01-13 13:10:36,387", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu1", "taskName": null}
+{"asctime": "2026-01-13 13:10:36,399", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu2", "taskName": null}
+{"asctime": "2026-01-13 13:10:36,410", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu3", "taskName": null}
+{"asctime": "2026-01-13 13:10:36,422", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu4", "taskName": null}
+{"asctime": "2026-01-13 13:10:36,426", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by pu0", "taskName": null}
+{"asctime": "2026-01-13 13:10:36,431", "levelname": "INFO", "name": "vibe", "message": "post_created: 2 by pu1", "taskName": null}
+{"asctime": "2026-01-13 13:10:36,436", "levelname": "INFO", "name": "vibe", "message": "post_created: 3 by pu2", "taskName": null}
+{"asctime": "2026-01-13 13:10:36,439", "levelname": "INFO", "name": "vibe", "message": "post_created: 4 by pu3", "taskName": null}
+{"asctime": "2026-01-13 13:10:36,443", "levelname": "INFO", "name": "vibe", "message": "post_created: 5 by pu4", "taskName": null}
+{"asctime": "2026-01-13 13:10:36,448", "levelname": "INFO", "name": "vibe", "message": "post_created: 6 by pu0", "taskName": null}
+{"asctime": "2026-01-13 13:10:36,452", "levelname": "INFO", "name": "vibe", "message": "post_created: 7 by pu1", "taskName": null}
+{"asctime": "2026-01-13 13:10:36,456", "levelname": "INFO", "name": "vibe", "message": "post_created: 8 by pu2", "taskName": null}
+{"asctime": "2026-01-13 13:10:36,460", "levelname": "INFO", "name": "vibe", "message": "post_created: 9 by pu3", "taskName": null}
+{"asctime": "2026-01-13 13:10:36,463", "levelname": "INFO", "name": "vibe", "message": "post_created: 10 by pu4", "taskName": null}
+{"asctime": "2026-01-13 13:10:36,468", "levelname": "INFO", "name": "vibe", "message": "post_created: 11 by pu0", "taskName": null}
+{"asctime": "2026-01-13 13:10:36,472", "levelname": "INFO", "name": "vibe", "message": "post_created: 12 by pu1", "taskName": null}
+{"asctime": "2026-01-13 13:10:36,476", "levelname": "INFO", "name": "vibe", "message": "post_created: 13 by pu2", "taskName": null}
+{"asctime": "2026-01-13 13:10:36,479", "levelname": "INFO", "name": "vibe", "message": "post_created: 14 by pu3", "taskName": null}
+{"asctime": "2026-01-13 13:10:36,483", "levelname": "INFO", "name": "vibe", "message": "post_created: 15 by pu4", "taskName": null}
+{"asctime": "2026-01-13 13:10:36,487", "levelname": "INFO", "name": "vibe", "message": "post_created: 16 by pu0", "taskName": null}
+{"asctime": "2026-01-13 13:10:36,491", "levelname": "INFO", "name": "vibe", "message": "post_created: 17 by pu1", "taskName": null}
+{"asctime": "2026-01-13 13:10:36,495", "levelname": "INFO", "name": "vibe", "message": "post_created: 18 by pu2", "taskName": null}
+{"asctime": "2026-01-13 13:10:36,499", "levelname": "INFO", "name": "vibe", "message": "post_created: 19 by pu3", "taskName": null}
+{"asctime": "2026-01-13 13:10:36,503", "levelname": "INFO", "name": "vibe", "message": "post_created: 20 by pu4", "taskName": null}
+{"asctime": "2026-01-13 13:10:36,508", "levelname": "INFO", "name": "vibe", "message": "post_created: 21 by pu0", "taskName": null}
+{"asctime": "2026-01-13 13:10:36,512", "levelname": "INFO", "name": "vibe", "message": "post_created: 22 by pu1", "taskName": null}
+{"asctime": "2026-01-13 13:10:36,516", "levelname": "INFO", "name": "vibe", "message": "post_created: 23 by pu2", "taskName": null}
+{"asctime": "2026-01-13 13:10:36,520", "levelname": "INFO", "name": "vibe", "message": "post_created: 24 by pu3", "taskName": null}
+{"asctime": "2026-01-13 13:10:36,525", "levelname": "INFO", "name": "vibe", "message": "post_created: 25 by pu4", "taskName": null}
+{"asctime": "2026-01-13 13:10:36,567", "levelname": "INFO", "name": "vibe", "message": "user_registered: rluser", "taskName": null}
+{"asctime": "2026-01-13 13:10:36,572", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by rluser", "taskName": null}
+{"asctime": "2026-01-13 13:10:36,577", "levelname": "INFO", "name": "vibe", "message": "post_created: 2 by rluser", "taskName": null}
+{"asctime": "2026-01-13 13:10:36,581", "levelname": "INFO", "name": "vibe", "message": "post_created: 3 by rluser", "taskName": null}
+{"asctime": "2026-01-13 13:10:36,626", "levelname": "INFO", "name": "vibe", "message": "user_registered: user1", "taskName": null}
+{"asctime": "2026-01-13 13:10:36,631", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by user1", "taskName": null}
+{"asctime": "2026-01-13 13:11:10,715", "levelname": "INFO", "name": "vibe", "message": "user_registered: alice", "taskName": null}
+{"asctime": "2026-01-13 13:11:10,726", "levelname": "INFO", "name": "vibe", "message": "user_login: alice", "taskName": null}
+{"asctime": "2026-01-13 13:11:10,765", "levelname": "INFO", "name": "vibe", "message": "user_registered: bob", "taskName": null}
+{"asctime": "2026-01-13 13:11:10,779", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by bob", "taskName": null}
+{"asctime": "2026-01-13 13:11:10,788", "levelname": "INFO", "name": "vibe", "message": "post_created: 2 by bob", "taskName": null}
+{"asctime": "2026-01-13 13:11:10,821", "levelname": "INFO", "name": "vibe", "message": "user_registered: carol", "taskName": null}
+{"asctime": "2026-01-13 13:11:10,833", "levelname": "INFO", "name": "vibe", "message": "user_registered: dave", "taskName": null}
+{"asctime": "2026-01-13 13:11:10,837", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by carol", "taskName": null}
+{"asctime": "2026-01-13 13:11:10,843", "levelname": "INFO", "name": "vibe", "message": "post_liked: 1 by dave", "taskName": null}
+{"asctime": "2026-01-13 13:11:10,874", "levelname": "INFO", "name": "vibe", "message": "user_registered: erin", "taskName": null}
+{"asctime": "2026-01-13 13:11:10,878", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by erin", "taskName": null}
+{"asctime": "2026-01-13 13:11:10,884", "levelname": "INFO", "name": "vibe", "message": "post_created: 2 by erin", "taskName": null}
+{"asctime": "2026-01-13 13:11:10,888", "levelname": "INFO", "name": "vibe", "message": "tests_completed", "taskName": null}
+{"asctime": "2026-01-13 13:11:10,920", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu0", "taskName": null}
+{"asctime": "2026-01-13 13:11:10,932", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu1", "taskName": null}
+{"asctime": "2026-01-13 13:11:10,943", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu2", "taskName": null}
+{"asctime": "2026-01-13 13:11:10,954", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu3", "taskName": null}
+{"asctime": "2026-01-13 13:11:10,966", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu4", "taskName": null}
+{"asctime": "2026-01-13 13:11:10,971", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by pu0", "taskName": null}
+{"asctime": "2026-01-13 13:11:10,976", "levelname": "INFO", "name": "vibe", "message": "post_created: 2 by pu1", "taskName": null}
+{"asctime": "2026-01-13 13:11:10,980", "levelname": "INFO", "name": "vibe", "message": "post_created: 3 by pu2", "taskName": null}
+{"asctime": "2026-01-13 13:11:10,985", "levelname": "INFO", "name": "vibe", "message": "post_created: 4 by pu3", "taskName": null}
+{"asctime": "2026-01-13 13:11:10,989", "levelname": "INFO", "name": "vibe", "message": "post_created: 5 by pu4", "taskName": null}
+{"asctime": "2026-01-13 13:11:10,993", "levelname": "INFO", "name": "vibe", "message": "post_created: 6 by pu0", "taskName": null}
+{"asctime": "2026-01-13 13:11:10,997", "levelname": "INFO", "name": "vibe", "message": "post_created: 7 by pu1", "taskName": null}
+{"asctime": "2026-01-13 13:11:11,001", "levelname": "INFO", "name": "vibe", "message": "post_created: 8 by pu2", "taskName": null}
+{"asctime": "2026-01-13 13:11:11,005", "levelname": "INFO", "name": "vibe", "message": "post_created: 9 by pu3", "taskName": null}
+{"asctime": "2026-01-13 13:11:11,009", "levelname": "INFO", "name": "vibe", "message": "post_created: 10 by pu4", "taskName": null}
+{"asctime": "2026-01-13 13:11:11,013", "levelname": "INFO", "name": "vibe", "message": "post_created: 11 by pu0", "taskName": null}
+{"asctime": "2026-01-13 13:11:11,017", "levelname": "INFO", "name": "vibe", "message": "post_created: 12 by pu1", "taskName": null}
+{"asctime": "2026-01-13 13:11:11,022", "levelname": "INFO", "name": "vibe", "message": "post_created: 13 by pu2", "taskName": null}
+{"asctime": "2026-01-13 13:11:11,026", "levelname": "INFO", "name": "vibe", "message": "post_created: 14 by pu3", "taskName": null}
+{"asctime": "2026-01-13 13:11:11,031", "levelname": "INFO", "name": "vibe", "message": "post_created: 15 by pu4", "taskName": null}
+{"asctime": "2026-01-13 13:11:11,035", "levelname": "INFO", "name": "vibe", "message": "post_created: 16 by pu0", "taskName": null}
+{"asctime": "2026-01-13 13:11:11,039", "levelname": "INFO", "name": "vibe", "message": "post_created: 17 by pu1", "taskName": null}
+{"asctime": "2026-01-13 13:11:11,043", "levelname": "INFO", "name": "vibe", "message": "post_created: 18 by pu2", "taskName": null}
+{"asctime": "2026-01-13 13:11:11,047", "levelname": "INFO", "name": "vibe", "message": "post_created: 19 by pu3", "taskName": null}
+{"asctime": "2026-01-13 13:11:11,051", "levelname": "INFO", "name": "vibe", "message": "post_created: 20 by pu4", "taskName": null}
+{"asctime": "2026-01-13 13:11:11,055", "levelname": "INFO", "name": "vibe", "message": "post_created: 21 by pu0", "taskName": null}
+{"asctime": "2026-01-13 13:11:11,059", "levelname": "INFO", "name": "vibe", "message": "post_created: 22 by pu1", "taskName": null}
+{"asctime": "2026-01-13 13:11:11,063", "levelname": "INFO", "name": "vibe", "message": "post_created: 23 by pu2", "taskName": null}
+{"asctime": "2026-01-13 13:11:11,067", "levelname": "INFO", "name": "vibe", "message": "post_created: 24 by pu3", "taskName": null}
+{"asctime": "2026-01-13 13:11:11,072", "levelname": "INFO", "name": "vibe", "message": "post_created: 25 by pu4", "taskName": null}
+{"asctime": "2026-01-13 13:11:11,116", "levelname": "INFO", "name": "vibe", "message": "user_registered: rluser", "taskName": null}
+{"asctime": "2026-01-13 13:11:11,120", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by rluser", "taskName": null}
+{"asctime": "2026-01-13 13:11:11,126", "levelname": "INFO", "name": "vibe", "message": "post_created: 2 by rluser", "taskName": null}
+{"asctime": "2026-01-13 13:11:11,130", "levelname": "INFO", "name": "vibe", "message": "post_created: 3 by rluser", "taskName": null}
+{"asctime": "2026-01-13 13:11:11,176", "levelname": "INFO", "name": "vibe", "message": "user_registered: user1", "taskName": null}
+{"asctime": "2026-01-13 13:11:11,181", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by user1", "taskName": null}
+{"asctime": "2026-01-13 13:13:12,578", "levelname": "INFO", "name": "vibe", "message": "user_registered: alice", "taskName": null}
+{"asctime": "2026-01-13 13:13:12,589", "levelname": "INFO", "name": "vibe", "message": "user_login: alice", "taskName": null}
+{"asctime": "2026-01-13 13:13:12,616", "levelname": "INFO", "name": "vibe", "message": "user_registered: bob", "taskName": null}
+{"asctime": "2026-01-13 13:13:12,621", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by bob", "taskName": null}
+{"asctime": "2026-01-13 13:13:12,627", "levelname": "INFO", "name": "vibe", "message": "post_created: 2 by bob", "taskName": null}
+{"asctime": "2026-01-13 13:13:12,662", "levelname": "INFO", "name": "vibe", "message": "user_registered: carol", "taskName": null}
+{"asctime": "2026-01-13 13:13:12,675", "levelname": "INFO", "name": "vibe", "message": "user_registered: dave", "taskName": null}
+{"asctime": "2026-01-13 13:13:12,680", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by carol", "taskName": null}
+{"asctime": "2026-01-13 13:13:12,687", "levelname": "INFO", "name": "vibe", "message": "post_liked: 1 by dave", "taskName": null}
+{"asctime": "2026-01-13 13:13:12,755", "levelname": "INFO", "name": "vibe", "message": "user_registered: erin", "taskName": null}
+{"asctime": "2026-01-13 13:13:12,761", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by erin", "taskName": null}
+{"asctime": "2026-01-13 13:13:12,767", "levelname": "INFO", "name": "vibe", "message": "post_created: 2 by erin", "taskName": null}
+{"asctime": "2026-01-13 13:13:12,771", "levelname": "INFO", "name": "vibe", "message": "tests_completed", "taskName": null}
+{"asctime": "2026-01-13 13:13:12,803", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu0", "taskName": null}
+{"asctime": "2026-01-13 13:13:12,815", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu1", "taskName": null}
+{"asctime": "2026-01-13 13:13:12,827", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu2", "taskName": null}
+{"asctime": "2026-01-13 13:13:12,839", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu3", "taskName": null}
+{"asctime": "2026-01-13 13:13:12,850", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu4", "taskName": null}
+{"asctime": "2026-01-13 13:13:12,854", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by pu0", "taskName": null}
+{"asctime": "2026-01-13 13:13:12,859", "levelname": "INFO", "name": "vibe", "message": "post_created: 2 by pu1", "taskName": null}
+{"asctime": "2026-01-13 13:13:12,863", "levelname": "INFO", "name": "vibe", "message": "post_created: 3 by pu2", "taskName": null}
+{"asctime": "2026-01-13 13:13:12,867", "levelname": "INFO", "name": "vibe", "message": "post_created: 4 by pu3", "taskName": null}
+{"asctime": "2026-01-13 13:13:12,871", "levelname": "INFO", "name": "vibe", "message": "post_created: 5 by pu4", "taskName": null}
+{"asctime": "2026-01-13 13:13:12,875", "levelname": "INFO", "name": "vibe", "message": "post_created: 6 by pu0", "taskName": null}
+{"asctime": "2026-01-13 13:13:12,879", "levelname": "INFO", "name": "vibe", "message": "post_created: 7 by pu1", "taskName": null}
+{"asctime": "2026-01-13 13:13:12,884", "levelname": "INFO", "name": "vibe", "message": "post_created: 8 by pu2", "taskName": null}
+{"asctime": "2026-01-13 13:13:12,888", "levelname": "INFO", "name": "vibe", "message": "post_created: 9 by pu3", "taskName": null}
+{"asctime": "2026-01-13 13:13:12,891", "levelname": "INFO", "name": "vibe", "message": "post_created: 10 by pu4", "taskName": null}
+{"asctime": "2026-01-13 13:13:12,895", "levelname": "INFO", "name": "vibe", "message": "post_created: 11 by pu0", "taskName": null}
+{"asctime": "2026-01-13 13:13:12,899", "levelname": "INFO", "name": "vibe", "message": "post_created: 12 by pu1", "taskName": null}
+{"asctime": "2026-01-13 13:13:12,903", "levelname": "INFO", "name": "vibe", "message": "post_created: 13 by pu2", "taskName": null}
+{"asctime": "2026-01-13 13:13:12,907", "levelname": "INFO", "name": "vibe", "message": "post_created: 14 by pu3", "taskName": null}
+{"asctime": "2026-01-13 13:13:12,912", "levelname": "INFO", "name": "vibe", "message": "post_created: 15 by pu4", "taskName": null}
+{"asctime": "2026-01-13 13:13:12,916", "levelname": "INFO", "name": "vibe", "message": "post_created: 16 by pu0", "taskName": null}
+{"asctime": "2026-01-13 13:13:12,920", "levelname": "INFO", "name": "vibe", "message": "post_created: 17 by pu1", "taskName": null}
+{"asctime": "2026-01-13 13:13:12,924", "levelname": "INFO", "name": "vibe", "message": "post_created: 18 by pu2", "taskName": null}
+{"asctime": "2026-01-13 13:13:12,928", "levelname": "INFO", "name": "vibe", "message": "post_created: 19 by pu3", "taskName": null}
+{"asctime": "2026-01-13 13:13:12,932", "levelname": "INFO", "name": "vibe", "message": "post_created: 20 by pu4", "taskName": null}
+{"asctime": "2026-01-13 13:13:12,935", "levelname": "INFO", "name": "vibe", "message": "post_created: 21 by pu0", "taskName": null}
+{"asctime": "2026-01-13 13:13:12,940", "levelname": "INFO", "name": "vibe", "message": "post_created: 22 by pu1", "taskName": null}
+{"asctime": "2026-01-13 13:13:12,944", "levelname": "INFO", "name": "vibe", "message": "post_created: 23 by pu2", "taskName": null}
+{"asctime": "2026-01-13 13:13:12,948", "levelname": "INFO", "name": "vibe", "message": "post_created: 24 by pu3", "taskName": null}
+{"asctime": "2026-01-13 13:13:12,953", "levelname": "INFO", "name": "vibe", "message": "post_created: 25 by pu4", "taskName": null}
+{"asctime": "2026-01-13 13:13:12,998", "levelname": "INFO", "name": "vibe", "message": "user_registered: rluser", "taskName": null}
+{"asctime": "2026-01-13 13:13:13,002", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by rluser", "taskName": null}
+{"asctime": "2026-01-13 13:13:13,007", "levelname": "INFO", "name": "vibe", "message": "post_created: 2 by rluser", "taskName": null}
+{"asctime": "2026-01-13 13:13:13,012", "levelname": "INFO", "name": "vibe", "message": "post_created: 3 by rluser", "taskName": null}
+{"asctime": "2026-01-13 13:13:13,057", "levelname": "INFO", "name": "vibe", "message": "user_registered: user1", "taskName": null}
+{"asctime": "2026-01-13 13:13:13,062", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by user1", "taskName": null}
+{"asctime": "2026-01-13 13:13:35,362", "levelname": "INFO", "name": "vibe", "message": "user_registered: alice", "taskName": null}
+{"asctime": "2026-01-13 13:13:35,373", "levelname": "INFO", "name": "vibe", "message": "user_login: alice", "taskName": null}
+{"asctime": "2026-01-13 13:13:35,400", "levelname": "INFO", "name": "vibe", "message": "user_registered: bob", "taskName": null}
+{"asctime": "2026-01-13 13:13:35,405", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by bob", "taskName": null}
+{"asctime": "2026-01-13 13:13:35,411", "levelname": "INFO", "name": "vibe", "message": "post_created: 2 by bob", "taskName": null}
+{"asctime": "2026-01-13 13:13:35,442", "levelname": "INFO", "name": "vibe", "message": "user_registered: carol", "taskName": null}
+{"asctime": "2026-01-13 13:13:35,453", "levelname": "INFO", "name": "vibe", "message": "user_registered: dave", "taskName": null}
+{"asctime": "2026-01-13 13:13:35,458", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by carol", "taskName": null}
+{"asctime": "2026-01-13 13:13:35,463", "levelname": "INFO", "name": "vibe", "message": "post_liked: 1 by dave", "taskName": null}
+{"asctime": "2026-01-13 13:13:35,496", "levelname": "INFO", "name": "vibe", "message": "user_registered: erin", "taskName": null}
+{"asctime": "2026-01-13 13:13:35,500", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by erin", "taskName": null}
+{"asctime": "2026-01-13 13:13:35,506", "levelname": "INFO", "name": "vibe", "message": "post_created: 2 by erin", "taskName": null}
+{"asctime": "2026-01-13 13:13:35,509", "levelname": "INFO", "name": "vibe", "message": "tests_completed", "taskName": null}
+{"asctime": "2026-01-13 13:13:35,540", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu0", "taskName": null}
+{"asctime": "2026-01-13 13:13:35,552", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu1", "taskName": null}
+{"asctime": "2026-01-13 13:13:35,563", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu2", "taskName": null}
+{"asctime": "2026-01-13 13:13:35,574", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu3", "taskName": null}
+{"asctime": "2026-01-13 13:13:35,585", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu4", "taskName": null}
+{"asctime": "2026-01-13 13:13:35,590", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by pu0", "taskName": null}
+{"asctime": "2026-01-13 13:13:35,594", "levelname": "INFO", "name": "vibe", "message": "post_created: 2 by pu1", "taskName": null}
+{"asctime": "2026-01-13 13:13:35,598", "levelname": "INFO", "name": "vibe", "message": "post_created: 3 by pu2", "taskName": null}
+{"asctime": "2026-01-13 13:13:35,602", "levelname": "INFO", "name": "vibe", "message": "post_created: 4 by pu3", "taskName": null}
+{"asctime": "2026-01-13 13:13:35,606", "levelname": "INFO", "name": "vibe", "message": "post_created: 5 by pu4", "taskName": null}
+{"asctime": "2026-01-13 13:13:35,610", "levelname": "INFO", "name": "vibe", "message": "post_created: 6 by pu0", "taskName": null}
+{"asctime": "2026-01-13 13:13:35,614", "levelname": "INFO", "name": "vibe", "message": "post_created: 7 by pu1", "taskName": null}
+{"asctime": "2026-01-13 13:13:35,618", "levelname": "INFO", "name": "vibe", "message": "post_created: 8 by pu2", "taskName": null}
+{"asctime": "2026-01-13 13:13:35,622", "levelname": "INFO", "name": "vibe", "message": "post_created: 9 by pu3", "taskName": null}
+{"asctime": "2026-01-13 13:13:35,626", "levelname": "INFO", "name": "vibe", "message": "post_created: 10 by pu4", "taskName": null}
+{"asctime": "2026-01-13 13:13:35,630", "levelname": "INFO", "name": "vibe", "message": "post_created: 11 by pu0", "taskName": null}
+{"asctime": "2026-01-13 13:13:35,634", "levelname": "INFO", "name": "vibe", "message": "post_created: 12 by pu1", "taskName": null}
+{"asctime": "2026-01-13 13:13:35,638", "levelname": "INFO", "name": "vibe", "message": "post_created: 13 by pu2", "taskName": null}
+{"asctime": "2026-01-13 13:13:35,642", "levelname": "INFO", "name": "vibe", "message": "post_created: 14 by pu3", "taskName": null}
+{"asctime": "2026-01-13 13:13:35,646", "levelname": "INFO", "name": "vibe", "message": "post_created: 15 by pu4", "taskName": null}
+{"asctime": "2026-01-13 13:13:35,649", "levelname": "INFO", "name": "vibe", "message": "post_created: 16 by pu0", "taskName": null}
+{"asctime": "2026-01-13 13:13:35,653", "levelname": "INFO", "name": "vibe", "message": "post_created: 17 by pu1", "taskName": null}
+{"asctime": "2026-01-13 13:13:35,657", "levelname": "INFO", "name": "vibe", "message": "post_created: 18 by pu2", "taskName": null}
+{"asctime": "2026-01-13 13:13:35,661", "levelname": "INFO", "name": "vibe", "message": "post_created: 19 by pu3", "taskName": null}
+{"asctime": "2026-01-13 13:13:35,665", "levelname": "INFO", "name": "vibe", "message": "post_created: 20 by pu4", "taskName": null}
+{"asctime": "2026-01-13 13:13:35,669", "levelname": "INFO", "name": "vibe", "message": "post_created: 21 by pu0", "taskName": null}
+{"asctime": "2026-01-13 13:13:35,673", "levelname": "INFO", "name": "vibe", "message": "post_created: 22 by pu1", "taskName": null}
+{"asctime": "2026-01-13 13:13:35,676", "levelname": "INFO", "name": "vibe", "message": "post_created: 23 by pu2", "taskName": null}
+{"asctime": "2026-01-13 13:13:35,680", "levelname": "INFO", "name": "vibe", "message": "post_created: 24 by pu3", "taskName": null}
+{"asctime": "2026-01-13 13:13:35,685", "levelname": "INFO", "name": "vibe", "message": "post_created: 25 by pu4", "taskName": null}
+{"asctime": "2026-01-13 13:13:35,727", "levelname": "INFO", "name": "vibe", "message": "user_registered: rluser", "taskName": null}
+{"asctime": "2026-01-13 13:13:35,732", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by rluser", "taskName": null}
+{"asctime": "2026-01-13 13:13:35,736", "levelname": "INFO", "name": "vibe", "message": "post_created: 2 by rluser", "taskName": null}
+{"asctime": "2026-01-13 13:13:35,740", "levelname": "INFO", "name": "vibe", "message": "post_created: 3 by rluser", "taskName": null}
+{"asctime": "2026-01-13 13:13:35,785", "levelname": "INFO", "name": "vibe", "message": "user_registered: user1", "taskName": null}
+{"asctime": "2026-01-13 13:13:35,790", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by user1", "taskName": null}
+{"asctime": "2026-01-13 13:13:51,013", "levelname": "INFO", "name": "vibe", "message": "user_registered: alice", "taskName": null}
+{"asctime": "2026-01-13 13:13:51,024", "levelname": "INFO", "name": "vibe", "message": "user_login: alice", "taskName": null}
+{"asctime": "2026-01-13 13:13:51,050", "levelname": "INFO", "name": "vibe", "message": "user_registered: bob", "taskName": null}
+{"asctime": "2026-01-13 13:13:51,055", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by bob", "taskName": null}
+{"asctime": "2026-01-13 13:13:51,062", "levelname": "INFO", "name": "vibe", "message": "post_created: 2 by bob", "taskName": null}
+{"asctime": "2026-01-13 13:13:51,095", "levelname": "INFO", "name": "vibe", "message": "user_registered: carol", "taskName": null}
+{"asctime": "2026-01-13 13:13:51,107", "levelname": "INFO", "name": "vibe", "message": "user_registered: dave", "taskName": null}
+{"asctime": "2026-01-13 13:13:51,111", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by carol", "taskName": null}
+{"asctime": "2026-01-13 13:13:51,117", "levelname": "INFO", "name": "vibe", "message": "post_liked: 1 by dave", "taskName": null}
+{"asctime": "2026-01-13 13:13:51,148", "levelname": "INFO", "name": "vibe", "message": "user_registered: erin", "taskName": null}
+{"asctime": "2026-01-13 13:13:51,152", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by erin", "taskName": null}
+{"asctime": "2026-01-13 13:13:51,158", "levelname": "INFO", "name": "vibe", "message": "post_created: 2 by erin", "taskName": null}
+{"asctime": "2026-01-13 13:13:51,161", "levelname": "INFO", "name": "vibe", "message": "tests_completed", "taskName": null}
+{"asctime": "2026-01-13 13:13:51,192", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu0", "taskName": null}
+{"asctime": "2026-01-13 13:13:51,204", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu1", "taskName": null}
+{"asctime": "2026-01-13 13:13:51,216", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu2", "taskName": null}
+{"asctime": "2026-01-13 13:13:51,227", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu3", "taskName": null}
+{"asctime": "2026-01-13 13:13:51,239", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu4", "taskName": null}
+{"asctime": "2026-01-13 13:13:51,243", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by pu0", "taskName": null}
+{"asctime": "2026-01-13 13:13:51,248", "levelname": "INFO", "name": "vibe", "message": "post_created: 2 by pu1", "taskName": null}
+{"asctime": "2026-01-13 13:13:51,252", "levelname": "INFO", "name": "vibe", "message": "post_created: 3 by pu2", "taskName": null}
+{"asctime": "2026-01-13 13:13:51,256", "levelname": "INFO", "name": "vibe", "message": "post_created: 4 by pu3", "taskName": null}
+{"asctime": "2026-01-13 13:13:51,260", "levelname": "INFO", "name": "vibe", "message": "post_created: 5 by pu4", "taskName": null}
+{"asctime": "2026-01-13 13:13:51,265", "levelname": "INFO", "name": "vibe", "message": "post_created: 6 by pu0", "taskName": null}
+{"asctime": "2026-01-13 13:13:51,269", "levelname": "INFO", "name": "vibe", "message": "post_created: 7 by pu1", "taskName": null}
+{"asctime": "2026-01-13 13:13:51,273", "levelname": "INFO", "name": "vibe", "message": "post_created: 8 by pu2", "taskName": null}
+{"asctime": "2026-01-13 13:13:51,277", "levelname": "INFO", "name": "vibe", "message": "post_created: 9 by pu3", "taskName": null}
+{"asctime": "2026-01-13 13:13:51,282", "levelname": "INFO", "name": "vibe", "message": "post_created: 10 by pu4", "taskName": null}
+{"asctime": "2026-01-13 13:13:51,286", "levelname": "INFO", "name": "vibe", "message": "post_created: 11 by pu0", "taskName": null}
+{"asctime": "2026-01-13 13:13:51,290", "levelname": "INFO", "name": "vibe", "message": "post_created: 12 by pu1", "taskName": null}
+{"asctime": "2026-01-13 13:13:51,295", "levelname": "INFO", "name": "vibe", "message": "post_created: 13 by pu2", "taskName": null}
+{"asctime": "2026-01-13 13:13:51,299", "levelname": "INFO", "name": "vibe", "message": "post_created: 14 by pu3", "taskName": null}
+{"asctime": "2026-01-13 13:13:51,303", "levelname": "INFO", "name": "vibe", "message": "post_created: 15 by pu4", "taskName": null}
+{"asctime": "2026-01-13 13:13:51,308", "levelname": "INFO", "name": "vibe", "message": "post_created: 16 by pu0", "taskName": null}
+{"asctime": "2026-01-13 13:13:51,312", "levelname": "INFO", "name": "vibe", "message": "post_created: 17 by pu1", "taskName": null}
+{"asctime": "2026-01-13 13:13:51,316", "levelname": "INFO", "name": "vibe", "message": "post_created: 18 by pu2", "taskName": null}
+{"asctime": "2026-01-13 13:13:51,321", "levelname": "INFO", "name": "vibe", "message": "post_created: 19 by pu3", "taskName": null}
+{"asctime": "2026-01-13 13:13:51,325", "levelname": "INFO", "name": "vibe", "message": "post_created: 20 by pu4", "taskName": null}
+{"asctime": "2026-01-13 13:13:51,329", "levelname": "INFO", "name": "vibe", "message": "post_created: 21 by pu0", "taskName": null}
+{"asctime": "2026-01-13 13:13:51,334", "levelname": "INFO", "name": "vibe", "message": "post_created: 22 by pu1", "taskName": null}
+{"asctime": "2026-01-13 13:13:51,338", "levelname": "INFO", "name": "vibe", "message": "post_created: 23 by pu2", "taskName": null}
+{"asctime": "2026-01-13 13:13:51,342", "levelname": "INFO", "name": "vibe", "message": "post_created: 24 by pu3", "taskName": null}
+{"asctime": "2026-01-13 13:13:51,347", "levelname": "INFO", "name": "vibe", "message": "post_created: 25 by pu4", "taskName": null}
+{"asctime": "2026-01-13 13:13:51,391", "levelname": "INFO", "name": "vibe", "message": "user_registered: rluser", "taskName": null}
+{"asctime": "2026-01-13 13:13:51,395", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by rluser", "taskName": null}
+{"asctime": "2026-01-13 13:13:51,400", "levelname": "INFO", "name": "vibe", "message": "post_created: 2 by rluser", "taskName": null}
+{"asctime": "2026-01-13 13:13:51,405", "levelname": "INFO", "name": "vibe", "message": "post_created: 3 by rluser", "taskName": null}
+{"asctime": "2026-01-13 13:13:51,450", "levelname": "INFO", "name": "vibe", "message": "user_registered: user1", "taskName": null}
+{"asctime": "2026-01-13 13:13:51,455", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by user1", "taskName": null}
+{"asctime": "2026-01-13 13:16:22,083", "levelname": "INFO", "name": "vibe", "message": "user_registered: alice", "taskName": null}
+{"asctime": "2026-01-13 13:16:22,126", "levelname": "INFO", "name": "vibe", "message": "user_login: alice", "taskName": null}
+{"asctime": "2026-01-13 13:16:22,187", "levelname": "INFO", "name": "vibe", "message": "user_registered: bob", "taskName": null}
+{"asctime": "2026-01-13 13:16:22,192", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by bob", "taskName": null}
+{"asctime": "2026-01-13 13:16:22,198", "levelname": "INFO", "name": "vibe", "message": "post_created: 2 by bob", "taskName": null}
+{"asctime": "2026-01-13 13:16:22,297", "levelname": "INFO", "name": "vibe", "message": "user_registered: carol", "taskName": null}
+{"asctime": "2026-01-13 13:16:22,341", "levelname": "INFO", "name": "vibe", "message": "user_registered: dave", "taskName": null}
+{"asctime": "2026-01-13 13:16:22,346", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by carol", "taskName": null}
+{"asctime": "2026-01-13 13:16:22,352", "levelname": "INFO", "name": "vibe", "message": "post_liked: 1 by dave", "taskName": null}
+{"asctime": "2026-01-13 13:16:22,416", "levelname": "INFO", "name": "vibe", "message": "user_registered: erin", "taskName": null}
+{"asctime": "2026-01-13 13:16:22,420", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by erin", "taskName": null}
+{"asctime": "2026-01-13 13:16:22,426", "levelname": "INFO", "name": "vibe", "message": "post_created: 2 by erin", "taskName": null}
+{"asctime": "2026-01-13 13:16:22,430", "levelname": "INFO", "name": "vibe", "message": "tests_completed", "taskName": null}
+{"asctime": "2026-01-13 13:16:22,494", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu0", "taskName": null}
+{"asctime": "2026-01-13 13:16:22,538", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu1", "taskName": null}
+{"asctime": "2026-01-13 13:16:22,582", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu2", "taskName": null}
+{"asctime": "2026-01-13 13:16:22,625", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu3", "taskName": null}
+{"asctime": "2026-01-13 13:16:22,669", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu4", "taskName": null}
+{"asctime": "2026-01-13 13:16:22,674", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by pu0", "taskName": null}
+{"asctime": "2026-01-13 13:16:22,679", "levelname": "INFO", "name": "vibe", "message": "post_created: 2 by pu1", "taskName": null}
+{"asctime": "2026-01-13 13:16:22,683", "levelname": "INFO", "name": "vibe", "message": "post_created: 3 by pu2", "taskName": null}
+{"asctime": "2026-01-13 13:16:22,687", "levelname": "INFO", "name": "vibe", "message": "post_created: 4 by pu3", "taskName": null}
+{"asctime": "2026-01-13 13:16:22,691", "levelname": "INFO", "name": "vibe", "message": "post_created: 5 by pu4", "taskName": null}
+{"asctime": "2026-01-13 13:16:22,695", "levelname": "INFO", "name": "vibe", "message": "post_created: 6 by pu0", "taskName": null}
+{"asctime": "2026-01-13 13:16:22,699", "levelname": "INFO", "name": "vibe", "message": "post_created: 7 by pu1", "taskName": null}
+{"asctime": "2026-01-13 13:16:22,704", "levelname": "INFO", "name": "vibe", "message": "post_created: 8 by pu2", "taskName": null}
+{"asctime": "2026-01-13 13:16:22,708", "levelname": "INFO", "name": "vibe", "message": "post_created: 9 by pu3", "taskName": null}
+{"asctime": "2026-01-13 13:16:22,712", "levelname": "INFO", "name": "vibe", "message": "post_created: 10 by pu4", "taskName": null}
+{"asctime": "2026-01-13 13:16:22,716", "levelname": "INFO", "name": "vibe", "message": "post_created: 11 by pu0", "taskName": null}
+{"asctime": "2026-01-13 13:16:22,720", "levelname": "INFO", "name": "vibe", "message": "post_created: 12 by pu1", "taskName": null}
+{"asctime": "2026-01-13 13:16:22,724", "levelname": "INFO", "name": "vibe", "message": "post_created: 13 by pu2", "taskName": null}
+{"asctime": "2026-01-13 13:16:22,728", "levelname": "INFO", "name": "vibe", "message": "post_created: 14 by pu3", "taskName": null}
+{"asctime": "2026-01-13 13:16:22,732", "levelname": "INFO", "name": "vibe", "message": "post_created: 15 by pu4", "taskName": null}
+{"asctime": "2026-01-13 13:16:22,736", "levelname": "INFO", "name": "vibe", "message": "post_created: 16 by pu0", "taskName": null}
+{"asctime": "2026-01-13 13:16:22,740", "levelname": "INFO", "name": "vibe", "message": "post_created: 17 by pu1", "taskName": null}
+{"asctime": "2026-01-13 13:16:22,744", "levelname": "INFO", "name": "vibe", "message": "post_created: 18 by pu2", "taskName": null}
+{"asctime": "2026-01-13 13:16:22,748", "levelname": "INFO", "name": "vibe", "message": "post_created: 19 by pu3", "taskName": null}
+{"asctime": "2026-01-13 13:16:22,752", "levelname": "INFO", "name": "vibe", "message": "post_created: 20 by pu4", "taskName": null}
+{"asctime": "2026-01-13 13:16:22,756", "levelname": "INFO", "name": "vibe", "message": "post_created: 21 by pu0", "taskName": null}
+{"asctime": "2026-01-13 13:16:22,760", "levelname": "INFO", "name": "vibe", "message": "post_created: 22 by pu1", "taskName": null}
+{"asctime": "2026-01-13 13:16:22,764", "levelname": "INFO", "name": "vibe", "message": "post_created: 23 by pu2", "taskName": null}
+{"asctime": "2026-01-13 13:16:22,768", "levelname": "INFO", "name": "vibe", "message": "post_created: 24 by pu3", "taskName": null}
+{"asctime": "2026-01-13 13:16:22,773", "levelname": "INFO", "name": "vibe", "message": "post_created: 25 by pu4", "taskName": null}
+{"asctime": "2026-01-13 13:16:22,848", "levelname": "INFO", "name": "vibe", "message": "user_registered: rluser", "taskName": null}
+{"asctime": "2026-01-13 13:16:22,854", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by rluser", "taskName": null}
+{"asctime": "2026-01-13 13:16:22,859", "levelname": "INFO", "name": "vibe", "message": "post_created: 2 by rluser", "taskName": null}
+{"asctime": "2026-01-13 13:16:22,863", "levelname": "INFO", "name": "vibe", "message": "post_created: 3 by rluser", "taskName": null}
+{"asctime": "2026-01-13 13:16:23,257", "levelname": "INFO", "name": "vibe", "message": "database_initialized", "taskName": "Task-2"}
+{"asctime": "2026-01-13 13:16:24,797", "levelname": "INFO", "name": "vibe", "message": "user_registered: user1", "taskName": null}
+{"asctime": "2026-01-13 13:16:24,802", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by user1", "taskName": null}
+{"asctime": "2026-01-13 13:17:43,517", "levelname": "INFO", "name": "vibe", "message": "database_initialized", "taskName": "Task-2"}
+{"asctime": "2026-01-13 13:17:47,276", "levelname": "INFO", "name": "vibe", "message": "user_registered: e2euser", "taskName": null}
+{"asctime": "2026-01-13 13:17:47,561", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by e2euser", "taskName": null}
+{"asctime": "2026-01-13 13:17:57,967", "levelname": "INFO", "name": "vibe", "message": "user_registered: alice", "taskName": null}
+{"asctime": "2026-01-13 13:17:58,010", "levelname": "INFO", "name": "vibe", "message": "user_login: alice", "taskName": null}
+{"asctime": "2026-01-13 13:17:58,070", "levelname": "INFO", "name": "vibe", "message": "user_registered: bob", "taskName": null}
+{"asctime": "2026-01-13 13:17:58,075", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by bob", "taskName": null}
+{"asctime": "2026-01-13 13:17:58,081", "levelname": "INFO", "name": "vibe", "message": "post_created: 2 by bob", "taskName": null}
+{"asctime": "2026-01-13 13:17:58,181", "levelname": "INFO", "name": "vibe", "message": "user_registered: carol", "taskName": null}
+{"asctime": "2026-01-13 13:17:58,225", "levelname": "INFO", "name": "vibe", "message": "user_registered: dave", "taskName": null}
+{"asctime": "2026-01-13 13:17:58,229", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by carol", "taskName": null}
+{"asctime": "2026-01-13 13:17:58,235", "levelname": "INFO", "name": "vibe", "message": "post_liked: 1 by dave", "taskName": null}
+{"asctime": "2026-01-13 13:17:58,298", "levelname": "INFO", "name": "vibe", "message": "user_registered: erin", "taskName": null}
+{"asctime": "2026-01-13 13:17:58,303", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by erin", "taskName": null}
+{"asctime": "2026-01-13 13:17:58,308", "levelname": "INFO", "name": "vibe", "message": "post_created: 2 by erin", "taskName": null}
+{"asctime": "2026-01-13 13:17:58,312", "levelname": "INFO", "name": "vibe", "message": "tests_completed", "taskName": null}
+{"asctime": "2026-01-13 13:17:58,375", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu0", "taskName": null}
+{"asctime": "2026-01-13 13:17:58,419", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu1", "taskName": null}
+{"asctime": "2026-01-13 13:17:58,462", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu2", "taskName": null}
+{"asctime": "2026-01-13 13:17:58,505", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu3", "taskName": null}
+{"asctime": "2026-01-13 13:17:58,549", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu4", "taskName": null}
+{"asctime": "2026-01-13 13:17:58,554", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by pu0", "taskName": null}
+{"asctime": "2026-01-13 13:17:58,559", "levelname": "INFO", "name": "vibe", "message": "post_created: 2 by pu1", "taskName": null}
+{"asctime": "2026-01-13 13:17:58,564", "levelname": "INFO", "name": "vibe", "message": "post_created: 3 by pu2", "taskName": null}
+{"asctime": "2026-01-13 13:17:58,568", "levelname": "INFO", "name": "vibe", "message": "post_created: 4 by pu3", "taskName": null}
+{"asctime": "2026-01-13 13:17:58,572", "levelname": "INFO", "name": "vibe", "message": "post_created: 5 by pu4", "taskName": null}
+{"asctime": "2026-01-13 13:17:58,576", "levelname": "INFO", "name": "vibe", "message": "post_created: 6 by pu0", "taskName": null}
+{"asctime": "2026-01-13 13:17:58,580", "levelname": "INFO", "name": "vibe", "message": "post_created: 7 by pu1", "taskName": null}
+{"asctime": "2026-01-13 13:17:58,584", "levelname": "INFO", "name": "vibe", "message": "post_created: 8 by pu2", "taskName": null}
+{"asctime": "2026-01-13 13:17:58,588", "levelname": "INFO", "name": "vibe", "message": "post_created: 9 by pu3", "taskName": null}
+{"asctime": "2026-01-13 13:17:58,592", "levelname": "INFO", "name": "vibe", "message": "post_created: 10 by pu4", "taskName": null}
+{"asctime": "2026-01-13 13:17:58,596", "levelname": "INFO", "name": "vibe", "message": "post_created: 11 by pu0", "taskName": null}
+{"asctime": "2026-01-13 13:17:58,600", "levelname": "INFO", "name": "vibe", "message": "post_created: 12 by pu1", "taskName": null}
+{"asctime": "2026-01-13 13:17:58,604", "levelname": "INFO", "name": "vibe", "message": "post_created: 13 by pu2", "taskName": null}
+{"asctime": "2026-01-13 13:17:58,608", "levelname": "INFO", "name": "vibe", "message": "post_created: 14 by pu3", "taskName": null}
+{"asctime": "2026-01-13 13:17:58,612", "levelname": "INFO", "name": "vibe", "message": "post_created: 15 by pu4", "taskName": null}
+{"asctime": "2026-01-13 13:17:58,616", "levelname": "INFO", "name": "vibe", "message": "post_created: 16 by pu0", "taskName": null}
+{"asctime": "2026-01-13 13:17:58,620", "levelname": "INFO", "name": "vibe", "message": "post_created: 17 by pu1", "taskName": null}
+{"asctime": "2026-01-13 13:17:58,624", "levelname": "INFO", "name": "vibe", "message": "post_created: 18 by pu2", "taskName": null}
+{"asctime": "2026-01-13 13:17:58,628", "levelname": "INFO", "name": "vibe", "message": "post_created: 19 by pu3", "taskName": null}
+{"asctime": "2026-01-13 13:17:58,632", "levelname": "INFO", "name": "vibe", "message": "post_created: 20 by pu4", "taskName": null}
+{"asctime": "2026-01-13 13:17:58,636", "levelname": "INFO", "name": "vibe", "message": "post_created: 21 by pu0", "taskName": null}
+{"asctime": "2026-01-13 13:17:58,640", "levelname": "INFO", "name": "vibe", "message": "post_created: 22 by pu1", "taskName": null}
+{"asctime": "2026-01-13 13:17:58,644", "levelname": "INFO", "name": "vibe", "message": "post_created: 23 by pu2", "taskName": null}
+{"asctime": "2026-01-13 13:17:58,648", "levelname": "INFO", "name": "vibe", "message": "post_created: 24 by pu3", "taskName": null}
+{"asctime": "2026-01-13 13:17:58,653", "levelname": "INFO", "name": "vibe", "message": "post_created: 25 by pu4", "taskName": null}
+{"asctime": "2026-01-13 13:17:58,728", "levelname": "INFO", "name": "vibe", "message": "user_registered: rluser", "taskName": null}
+{"asctime": "2026-01-13 13:17:58,733", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by rluser", "taskName": null}
+{"asctime": "2026-01-13 13:17:58,739", "levelname": "INFO", "name": "vibe", "message": "post_created: 2 by rluser", "taskName": null}
+{"asctime": "2026-01-13 13:17:58,743", "levelname": "INFO", "name": "vibe", "message": "post_created: 3 by rluser", "taskName": null}
+{"asctime": "2026-01-13 13:17:59,159", "levelname": "INFO", "name": "vibe", "message": "database_initialized", "taskName": "Task-2"}
+{"asctime": "2026-01-13 13:17:59,821", "levelname": "INFO", "name": "vibe", "message": "user_registered: e2euser", "taskName": null}
+{"asctime": "2026-01-13 13:18:00,105", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by e2euser", "taskName": null}
+{"asctime": "2026-01-13 13:18:01,146", "levelname": "INFO", "name": "vibe", "message": "user_registered: user1", "taskName": null}
+{"asctime": "2026-01-13 13:18:01,152", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by user1", "taskName": null}
+{"asctime": "2026-01-13 13:19:45,113", "levelname": "INFO", "name": "vibe", "message": "user_registered: alice", "taskName": null}
+{"asctime": "2026-01-13 13:19:45,157", "levelname": "INFO", "name": "vibe", "message": "user_login: alice", "taskName": null}
+{"asctime": "2026-01-13 13:19:45,217", "levelname": "INFO", "name": "vibe", "message": "user_registered: bob", "taskName": null}
+{"asctime": "2026-01-13 13:19:45,222", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by bob", "taskName": null}
+{"asctime": "2026-01-13 13:19:45,228", "levelname": "INFO", "name": "vibe", "message": "post_created: 2 by bob", "taskName": null}
+{"asctime": "2026-01-13 13:19:45,292", "levelname": "INFO", "name": "vibe", "message": "user_registered: carol", "taskName": null}
+{"asctime": "2026-01-13 13:19:45,335", "levelname": "INFO", "name": "vibe", "message": "user_registered: dave", "taskName": null}
+{"asctime": "2026-01-13 13:19:45,339", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by carol", "taskName": null}
+{"asctime": "2026-01-13 13:19:45,345", "levelname": "INFO", "name": "vibe", "message": "post_liked: 1 by dave", "taskName": null}
+{"asctime": "2026-01-13 13:19:45,410", "levelname": "INFO", "name": "vibe", "message": "user_registered: erin", "taskName": null}
+{"asctime": "2026-01-13 13:19:45,414", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by erin", "taskName": null}
+{"asctime": "2026-01-13 13:19:45,420", "levelname": "INFO", "name": "vibe", "message": "post_created: 2 by erin", "taskName": null}
+{"asctime": "2026-01-13 13:19:45,423", "levelname": "INFO", "name": "vibe", "message": "tests_completed", "taskName": null}
+{"asctime": "2026-01-13 13:19:45,487", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu0", "taskName": null}
+{"asctime": "2026-01-13 13:19:45,531", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu1", "taskName": null}
+{"asctime": "2026-01-13 13:19:45,575", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu2", "taskName": null}
+{"asctime": "2026-01-13 13:19:45,619", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu3", "taskName": null}
+{"asctime": "2026-01-13 13:19:45,662", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu4", "taskName": null}
+{"asctime": "2026-01-13 13:19:45,666", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by pu0", "taskName": null}
+{"asctime": "2026-01-13 13:19:45,671", "levelname": "INFO", "name": "vibe", "message": "post_created: 2 by pu1", "taskName": null}
+{"asctime": "2026-01-13 13:19:45,675", "levelname": "INFO", "name": "vibe", "message": "post_created: 3 by pu2", "taskName": null}
+{"asctime": "2026-01-13 13:19:45,679", "levelname": "INFO", "name": "vibe", "message": "post_created: 4 by pu3", "taskName": null}
+{"asctime": "2026-01-13 13:19:45,683", "levelname": "INFO", "name": "vibe", "message": "post_created: 5 by pu4", "taskName": null}
+{"asctime": "2026-01-13 13:19:45,687", "levelname": "INFO", "name": "vibe", "message": "post_created: 6 by pu0", "taskName": null}
+{"asctime": "2026-01-13 13:19:45,691", "levelname": "INFO", "name": "vibe", "message": "post_created: 7 by pu1", "taskName": null}
+{"asctime": "2026-01-13 13:19:45,694", "levelname": "INFO", "name": "vibe", "message": "post_created: 8 by pu2", "taskName": null}
+{"asctime": "2026-01-13 13:19:45,698", "levelname": "INFO", "name": "vibe", "message": "post_created: 9 by pu3", "taskName": null}
+{"asctime": "2026-01-13 13:19:45,702", "levelname": "INFO", "name": "vibe", "message": "post_created: 10 by pu4", "taskName": null}
+{"asctime": "2026-01-13 13:19:45,706", "levelname": "INFO", "name": "vibe", "message": "post_created: 11 by pu0", "taskName": null}
+{"asctime": "2026-01-13 13:19:45,710", "levelname": "INFO", "name": "vibe", "message": "post_created: 12 by pu1", "taskName": null}
+{"asctime": "2026-01-13 13:19:45,714", "levelname": "INFO", "name": "vibe", "message": "post_created: 13 by pu2", "taskName": null}
+{"asctime": "2026-01-13 13:19:45,718", "levelname": "INFO", "name": "vibe", "message": "post_created: 14 by pu3", "taskName": null}
+{"asctime": "2026-01-13 13:19:45,721", "levelname": "INFO", "name": "vibe", "message": "post_created: 15 by pu4", "taskName": null}
+{"asctime": "2026-01-13 13:19:45,725", "levelname": "INFO", "name": "vibe", "message": "post_created: 16 by pu0", "taskName": null}
+{"asctime": "2026-01-13 13:19:45,729", "levelname": "INFO", "name": "vibe", "message": "post_created: 17 by pu1", "taskName": null}
+{"asctime": "2026-01-13 13:19:45,733", "levelname": "INFO", "name": "vibe", "message": "post_created: 18 by pu2", "taskName": null}
+{"asctime": "2026-01-13 13:19:45,737", "levelname": "INFO", "name": "vibe", "message": "post_created: 19 by pu3", "taskName": null}
+{"asctime": "2026-01-13 13:19:45,741", "levelname": "INFO", "name": "vibe", "message": "post_created: 20 by pu4", "taskName": null}
+{"asctime": "2026-01-13 13:19:45,745", "levelname": "INFO", "name": "vibe", "message": "post_created: 21 by pu0", "taskName": null}
+{"asctime": "2026-01-13 13:19:45,749", "levelname": "INFO", "name": "vibe", "message": "post_created: 22 by pu1", "taskName": null}
+{"asctime": "2026-01-13 13:19:45,752", "levelname": "INFO", "name": "vibe", "message": "post_created: 23 by pu2", "taskName": null}
+{"asctime": "2026-01-13 13:19:45,756", "levelname": "INFO", "name": "vibe", "message": "post_created: 24 by pu3", "taskName": null}
+{"asctime": "2026-01-13 13:19:45,761", "levelname": "INFO", "name": "vibe", "message": "post_created: 25 by pu4", "taskName": null}
+{"asctime": "2026-01-13 13:19:45,835", "levelname": "INFO", "name": "vibe", "message": "user_registered: rluser", "taskName": null}
+{"asctime": "2026-01-13 13:19:45,839", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by rluser", "taskName": null}
+{"asctime": "2026-01-13 13:19:45,844", "levelname": "INFO", "name": "vibe", "message": "post_created: 2 by rluser", "taskName": null}
+{"asctime": "2026-01-13 13:19:45,848", "levelname": "INFO", "name": "vibe", "message": "post_created: 3 by rluser", "taskName": null}
+{"asctime": "2026-01-13 13:19:46,244", "levelname": "INFO", "name": "vibe", "message": "database_initialized", "taskName": "Task-2"}
+{"asctime": "2026-01-13 13:19:47,006", "levelname": "INFO", "name": "vibe", "message": "user_registered: e2euser", "taskName": null}
+{"asctime": "2026-01-13 13:19:47,310", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by e2euser", "taskName": null}
+{"asctime": "2026-01-13 13:19:48,363", "levelname": "INFO", "name": "vibe", "message": "user_registered: user1", "taskName": null}
+{"asctime": "2026-01-13 13:19:48,368", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by user1", "taskName": null}
+{"asctime": "2026-01-13 13:20:41,305", "levelname": "INFO", "name": "vibe", "message": "user_registered: alice", "taskName": null}
+{"asctime": "2026-01-13 13:20:41,347", "levelname": "INFO", "name": "vibe", "message": "user_login: alice", "taskName": null}
+{"asctime": "2026-01-13 13:20:53,083", "levelname": "INFO", "name": "vibe", "message": "user_registered: alice", "taskName": null}
+{"asctime": "2026-01-13 13:20:53,126", "levelname": "INFO", "name": "vibe", "message": "user_login: alice", "taskName": null}
+{"asctime": "2026-01-13 13:20:53,185", "levelname": "INFO", "name": "vibe", "message": "user_registered: bob", "taskName": null}
+{"asctime": "2026-01-13 13:20:53,190", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by bob", "taskName": null}
+{"asctime": "2026-01-13 13:20:53,196", "levelname": "INFO", "name": "vibe", "message": "post_created: 2 by bob", "taskName": null}
+{"asctime": "2026-01-13 13:20:53,262", "levelname": "INFO", "name": "vibe", "message": "user_registered: carol", "taskName": null}
+{"asctime": "2026-01-13 13:20:53,306", "levelname": "INFO", "name": "vibe", "message": "user_registered: dave", "taskName": null}
+{"asctime": "2026-01-13 13:20:53,310", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by carol", "taskName": null}
+{"asctime": "2026-01-13 13:20:53,316", "levelname": "INFO", "name": "vibe", "message": "post_liked: 1 by dave", "taskName": null}
+{"asctime": "2026-01-13 13:20:53,379", "levelname": "INFO", "name": "vibe", "message": "user_registered: erin", "taskName": null}
+{"asctime": "2026-01-13 13:20:53,384", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by erin", "taskName": null}
+{"asctime": "2026-01-13 13:20:53,389", "levelname": "INFO", "name": "vibe", "message": "post_created: 2 by erin", "taskName": null}
+{"asctime": "2026-01-13 13:20:53,393", "levelname": "INFO", "name": "vibe", "message": "tests_completed", "taskName": null}
+{"asctime": "2026-01-13 13:20:53,458", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu0", "taskName": null}
+{"asctime": "2026-01-13 13:20:53,502", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu1", "taskName": null}
+{"asctime": "2026-01-13 13:20:53,546", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu2", "taskName": null}
+{"asctime": "2026-01-13 13:20:53,590", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu3", "taskName": null}
+{"asctime": "2026-01-13 13:20:53,634", "levelname": "INFO", "name": "vibe", "message": "user_registered: pu4", "taskName": null}
+{"asctime": "2026-01-13 13:20:53,639", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by pu0", "taskName": null}
+{"asctime": "2026-01-13 13:20:53,644", "levelname": "INFO", "name": "vibe", "message": "post_created: 2 by pu1", "taskName": null}
+{"asctime": "2026-01-13 13:20:53,648", "levelname": "INFO", "name": "vibe", "message": "post_created: 3 by pu2", "taskName": null}
+{"asctime": "2026-01-13 13:20:53,652", "levelname": "INFO", "name": "vibe", "message": "post_created: 4 by pu3", "taskName": null}
+{"asctime": "2026-01-13 13:20:53,656", "levelname": "INFO", "name": "vibe", "message": "post_created: 5 by pu4", "taskName": null}
+{"asctime": "2026-01-13 13:20:53,660", "levelname": "INFO", "name": "vibe", "message": "post_created: 6 by pu0", "taskName": null}
+{"asctime": "2026-01-13 13:20:53,665", "levelname": "INFO", "name": "vibe", "message": "post_created: 7 by pu1", "taskName": null}
+{"asctime": "2026-01-13 13:20:53,669", "levelname": "INFO", "name": "vibe", "message": "post_created: 8 by pu2", "taskName": null}
+{"asctime": "2026-01-13 13:20:53,673", "levelname": "INFO", "name": "vibe", "message": "post_created: 9 by pu3", "taskName": null}
+{"asctime": "2026-01-13 13:20:53,677", "levelname": "INFO", "name": "vibe", "message": "post_created: 10 by pu4", "taskName": null}
+{"asctime": "2026-01-13 13:20:53,681", "levelname": "INFO", "name": "vibe", "message": "post_created: 11 by pu0", "taskName": null}
+{"asctime": "2026-01-13 13:20:53,685", "levelname": "INFO", "name": "vibe", "message": "post_created: 12 by pu1", "taskName": null}
+{"asctime": "2026-01-13 13:20:53,689", "levelname": "INFO", "name": "vibe", "message": "post_created: 13 by pu2", "taskName": null}
+{"asctime": "2026-01-13 13:20:53,693", "levelname": "INFO", "name": "vibe", "message": "post_created: 14 by pu3", "taskName": null}
+{"asctime": "2026-01-13 13:20:53,697", "levelname": "INFO", "name": "vibe", "message": "post_created: 15 by pu4", "taskName": null}
+{"asctime": "2026-01-13 13:20:53,701", "levelname": "INFO", "name": "vibe", "message": "post_created: 16 by pu0", "taskName": null}
+{"asctime": "2026-01-13 13:20:53,705", "levelname": "INFO", "name": "vibe", "message": "post_created: 17 by pu1", "taskName": null}
+{"asctime": "2026-01-13 13:20:53,709", "levelname": "INFO", "name": "vibe", "message": "post_created: 18 by pu2", "taskName": null}
+{"asctime": "2026-01-13 13:20:53,713", "levelname": "INFO", "name": "vibe", "message": "post_created: 19 by pu3", "taskName": null}
+{"asctime": "2026-01-13 13:20:53,717", "levelname": "INFO", "name": "vibe", "message": "post_created: 20 by pu4", "taskName": null}
+{"asctime": "2026-01-13 13:20:53,721", "levelname": "INFO", "name": "vibe", "message": "post_created: 21 by pu0", "taskName": null}
+{"asctime": "2026-01-13 13:20:53,725", "levelname": "INFO", "name": "vibe", "message": "post_created: 22 by pu1", "taskName": null}
+{"asctime": "2026-01-13 13:20:53,730", "levelname": "INFO", "name": "vibe", "message": "post_created: 23 by pu2", "taskName": null}
+{"asctime": "2026-01-13 13:20:53,734", "levelname": "INFO", "name": "vibe", "message": "post_created: 24 by pu3", "taskName": null}
+{"asctime": "2026-01-13 13:20:53,738", "levelname": "INFO", "name": "vibe", "message": "post_created: 25 by pu4", "taskName": null}
+{"asctime": "2026-01-13 13:20:53,813", "levelname": "INFO", "name": "vibe", "message": "user_registered: rluser", "taskName": null}
+{"asctime": "2026-01-13 13:20:53,818", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by rluser", "taskName": null}
+{"asctime": "2026-01-13 13:20:53,823", "levelname": "INFO", "name": "vibe", "message": "post_created: 2 by rluser", "taskName": null}
+{"asctime": "2026-01-13 13:20:53,827", "levelname": "INFO", "name": "vibe", "message": "post_created: 3 by rluser", "taskName": null}
+{"asctime": "2026-01-13 13:20:54,217", "levelname": "INFO", "name": "vibe", "message": "database_initialized", "taskName": "Task-2"}
+{"asctime": "2026-01-13 13:20:54,958", "levelname": "INFO", "name": "vibe", "message": "user_registered: e2euser", "taskName": null}
+{"asctime": "2026-01-13 13:20:55,259", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by e2euser", "taskName": null}
+{"asctime": "2026-01-13 13:20:56,310", "levelname": "INFO", "name": "vibe", "message": "user_registered: user1", "taskName": null}
+{"asctime": "2026-01-13 13:20:56,315", "levelname": "INFO", "name": "vibe", "message": "post_created: 1 by user1", "taskName": null}
+{"asctime": "2026-01-13 13:25:05,027", "levelname": "INFO", "name": "vibe", "message": "database_initialized", "taskName": "Task-2"}
