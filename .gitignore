@@ -4,6 +4,9 @@
 # Editor settings
 .vscode/
 
+# CI and workflow metadata
+.github/
+
 # Local sqlite DB and logs
 vibe.db
 logs/
