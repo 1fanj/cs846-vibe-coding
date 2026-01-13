@@ -3189,3 +3189,431 @@
 - logger: vibe
 - msg: database_initialized
 
+### INFO - 2026-01-13 13:52:19,631
+- logger: vibe
+- msg: user_registered: alice
+
+### INFO - 2026-01-13 13:52:19,675
+- logger: vibe
+- msg: user_login: alice
+
+### INFO - 2026-01-13 13:52:19,734
+- logger: vibe
+- msg: user_registered: bob
+
+### INFO - 2026-01-13 13:52:19,739
+- logger: vibe
+- msg: post_created: 1 by bob
+
+### INFO - 2026-01-13 13:52:19,746
+- logger: vibe
+- msg: post_created: 2 by bob
+
+### INFO - 2026-01-13 13:52:19,811
+- logger: vibe
+- msg: user_registered: carol
+
+### INFO - 2026-01-13 13:52:19,855
+- logger: vibe
+- msg: user_registered: dave
+
+### INFO - 2026-01-13 13:52:19,860
+- logger: vibe
+- msg: post_created: 1 by carol
+
+### INFO - 2026-01-13 13:52:19,865
+- logger: vibe
+- msg: post_liked: 1 by dave
+
+### INFO - 2026-01-13 13:52:19,928
+- logger: vibe
+- msg: user_registered: erin
+
+### INFO - 2026-01-13 13:52:19,933
+- logger: vibe
+- msg: post_created: 1 by erin
+
+### INFO - 2026-01-13 13:52:19,939
+- logger: vibe
+- msg: post_created: 2 by erin
+
+### INFO - 2026-01-13 13:52:19,942
+- logger: vibe
+- msg: tests_completed
+
+### INFO - 2026-01-13 13:52:20,006
+- logger: vibe
+- msg: user_registered: pu0
+
+### INFO - 2026-01-13 13:52:20,051
+- logger: vibe
+- msg: user_registered: pu1
+
+### INFO - 2026-01-13 13:52:20,095
+- logger: vibe
+- msg: user_registered: pu2
+
+### INFO - 2026-01-13 13:52:20,139
+- logger: vibe
+- msg: user_registered: pu3
+
+### INFO - 2026-01-13 13:52:20,183
+- logger: vibe
+- msg: user_registered: pu4
+
+### INFO - 2026-01-13 13:52:20,188
+- logger: vibe
+- msg: post_created: 1 by pu0
+
+### INFO - 2026-01-13 13:52:20,193
+- logger: vibe
+- msg: post_created: 2 by pu1
+
+### INFO - 2026-01-13 13:52:20,197
+- logger: vibe
+- msg: post_created: 3 by pu2
+
+### INFO - 2026-01-13 13:52:20,201
+- logger: vibe
+- msg: post_created: 4 by pu3
+
+### INFO - 2026-01-13 13:52:20,205
+- logger: vibe
+- msg: post_created: 5 by pu4
+
+### INFO - 2026-01-13 13:52:20,209
+- logger: vibe
+- msg: post_created: 6 by pu0
+
+### INFO - 2026-01-13 13:52:20,213
+- logger: vibe
+- msg: post_created: 7 by pu1
+
+### INFO - 2026-01-13 13:52:20,217
+- logger: vibe
+- msg: post_created: 8 by pu2
+
+### INFO - 2026-01-13 13:52:20,221
+- logger: vibe
+- msg: post_created: 9 by pu3
+
+### INFO - 2026-01-13 13:52:20,225
+- logger: vibe
+- msg: post_created: 10 by pu4
+
+### INFO - 2026-01-13 13:52:20,229
+- logger: vibe
+- msg: post_created: 11 by pu0
+
+### INFO - 2026-01-13 13:52:20,233
+- logger: vibe
+- msg: post_created: 12 by pu1
+
+### INFO - 2026-01-13 13:52:20,237
+- logger: vibe
+- msg: post_created: 13 by pu2
+
+### INFO - 2026-01-13 13:52:20,241
+- logger: vibe
+- msg: post_created: 14 by pu3
+
+### INFO - 2026-01-13 13:52:20,245
+- logger: vibe
+- msg: post_created: 15 by pu4
+
+### INFO - 2026-01-13 13:52:20,249
+- logger: vibe
+- msg: post_created: 16 by pu0
+
+### INFO - 2026-01-13 13:52:20,252
+- logger: vibe
+- msg: post_created: 17 by pu1
+
+### INFO - 2026-01-13 13:52:20,256
+- logger: vibe
+- msg: post_created: 18 by pu2
+
+### INFO - 2026-01-13 13:52:20,260
+- logger: vibe
+- msg: post_created: 19 by pu3
+
+### INFO - 2026-01-13 13:52:20,264
+- logger: vibe
+- msg: post_created: 20 by pu4
+
+### INFO - 2026-01-13 13:52:20,268
+- logger: vibe
+- msg: post_created: 21 by pu0
+
+### INFO - 2026-01-13 13:52:20,272
+- logger: vibe
+- msg: post_created: 22 by pu1
+
+### INFO - 2026-01-13 13:52:20,276
+- logger: vibe
+- msg: post_created: 23 by pu2
+
+### INFO - 2026-01-13 13:52:20,279
+- logger: vibe
+- msg: post_created: 24 by pu3
+
+### INFO - 2026-01-13 13:52:20,283
+- logger: vibe
+- msg: post_created: 25 by pu4
+
+### INFO - 2026-01-13 13:52:20,360
+- logger: vibe
+- msg: user_registered: rluser
+
+### INFO - 2026-01-13 13:52:20,364
+- logger: vibe
+- msg: post_created: 1 by rluser
+
+### INFO - 2026-01-13 13:52:20,369
+- logger: vibe
+- msg: post_created: 2 by rluser
+
+### INFO - 2026-01-13 13:52:20,373
+- logger: vibe
+- msg: post_created: 3 by rluser
+
+### INFO - 2026-01-13 13:52:20,826
+- logger: vibe
+- msg: database_initialized
+
+### INFO - 2026-01-13 13:52:21,956
+- logger: vibe
+- msg: user_registered: e2euser
+
+### INFO - 2026-01-13 13:52:22,249
+- logger: vibe
+- msg: post_created: 1 by e2euser
+
+### INFO - 2026-01-13 13:52:23,258
+- logger: vibe
+- msg: user_registered: user1
+
+### INFO - 2026-01-13 13:52:23,264
+- logger: vibe
+- msg: post_created: 1 by user1
+
+### INFO - 2026-01-13 13:53:51,452
+- logger: vibe
+- msg: user_registered: alice
+
+### INFO - 2026-01-13 13:53:51,496
+- logger: vibe
+- msg: user_login: alice
+
+### INFO - 2026-01-13 13:53:51,556
+- logger: vibe
+- msg: user_registered: bob
+
+### INFO - 2026-01-13 13:53:51,562
+- logger: vibe
+- msg: post_created: 1 by bob
+
+### INFO - 2026-01-13 13:53:51,567
+- logger: vibe
+- msg: post_created: 2 by bob
+
+### INFO - 2026-01-13 13:53:51,635
+- logger: vibe
+- msg: user_registered: carol
+
+### INFO - 2026-01-13 13:53:51,679
+- logger: vibe
+- msg: user_registered: dave
+
+### INFO - 2026-01-13 13:53:51,684
+- logger: vibe
+- msg: post_created: 1 by carol
+
+### INFO - 2026-01-13 13:53:51,689
+- logger: vibe
+- msg: post_liked: 1 by dave
+
+### INFO - 2026-01-13 13:53:51,753
+- logger: vibe
+- msg: user_registered: erin
+
+### INFO - 2026-01-13 13:53:51,757
+- logger: vibe
+- msg: post_created: 1 by erin
+
+### INFO - 2026-01-13 13:53:51,762
+- logger: vibe
+- msg: post_created: 2 by erin
+
+### INFO - 2026-01-13 13:53:51,766
+- logger: vibe
+- msg: tests_completed
+
+### INFO - 2026-01-13 13:53:51,830
+- logger: vibe
+- msg: user_registered: pu0
+
+### INFO - 2026-01-13 13:53:51,874
+- logger: vibe
+- msg: user_registered: pu1
+
+### INFO - 2026-01-13 13:53:51,918
+- logger: vibe
+- msg: user_registered: pu2
+
+### INFO - 2026-01-13 13:53:51,962
+- logger: vibe
+- msg: user_registered: pu3
+
+### INFO - 2026-01-13 13:53:52,005
+- logger: vibe
+- msg: user_registered: pu4
+
+### INFO - 2026-01-13 13:53:52,010
+- logger: vibe
+- msg: post_created: 1 by pu0
+
+### INFO - 2026-01-13 13:53:52,014
+- logger: vibe
+- msg: post_created: 2 by pu1
+
+### INFO - 2026-01-13 13:53:52,018
+- logger: vibe
+- msg: post_created: 3 by pu2
+
+### INFO - 2026-01-13 13:53:52,022
+- logger: vibe
+- msg: post_created: 4 by pu3
+
+### INFO - 2026-01-13 13:53:52,026
+- logger: vibe
+- msg: post_created: 5 by pu4
+
+### INFO - 2026-01-13 13:53:52,030
+- logger: vibe
+- msg: post_created: 6 by pu0
+
+### INFO - 2026-01-13 13:53:52,034
+- logger: vibe
+- msg: post_created: 7 by pu1
+
+### INFO - 2026-01-13 13:53:52,038
+- logger: vibe
+- msg: post_created: 8 by pu2
+
+### INFO - 2026-01-13 13:53:52,042
+- logger: vibe
+- msg: post_created: 9 by pu3
+
+### INFO - 2026-01-13 13:53:52,045
+- logger: vibe
+- msg: post_created: 10 by pu4
+
+### INFO - 2026-01-13 13:53:52,049
+- logger: vibe
+- msg: post_created: 11 by pu0
+
+### INFO - 2026-01-13 13:53:52,053
+- logger: vibe
+- msg: post_created: 12 by pu1
+
+### INFO - 2026-01-13 13:53:52,057
+- logger: vibe
+- msg: post_created: 13 by pu2
+
+### INFO - 2026-01-13 13:53:52,061
+- logger: vibe
+- msg: post_created: 14 by pu3
+
+### INFO - 2026-01-13 13:53:52,065
+- logger: vibe
+- msg: post_created: 15 by pu4
+
+### INFO - 2026-01-13 13:53:52,068
+- logger: vibe
+- msg: post_created: 16 by pu0
+
+### INFO - 2026-01-13 13:53:52,072
+- logger: vibe
+- msg: post_created: 17 by pu1
+
+### INFO - 2026-01-13 13:53:52,076
+- logger: vibe
+- msg: post_created: 18 by pu2
+
+### INFO - 2026-01-13 13:53:52,080
+- logger: vibe
+- msg: post_created: 19 by pu3
+
+### INFO - 2026-01-13 13:53:52,084
+- logger: vibe
+- msg: post_created: 20 by pu4
+
+### INFO - 2026-01-13 13:53:52,088
+- logger: vibe
+- msg: post_created: 21 by pu0
+
+### INFO - 2026-01-13 13:53:52,091
+- logger: vibe
+- msg: post_created: 22 by pu1
+
+### INFO - 2026-01-13 13:53:52,095
+- logger: vibe
+- msg: post_created: 23 by pu2
+
+### INFO - 2026-01-13 13:53:52,099
+- logger: vibe
+- msg: post_created: 24 by pu3
+
+### INFO - 2026-01-13 13:53:52,103
+- logger: vibe
+- msg: post_created: 25 by pu4
+
+### INFO - 2026-01-13 13:53:52,179
+- logger: vibe
+- msg: user_registered: rluser
+
+### INFO - 2026-01-13 13:53:52,184
+- logger: vibe
+- msg: post_created: 1 by rluser
+
+### INFO - 2026-01-13 13:53:52,188
+- logger: vibe
+- msg: post_created: 2 by rluser
+
+### INFO - 2026-01-13 13:53:52,193
+- logger: vibe
+- msg: post_created: 3 by rluser
+
+### INFO - 2026-01-13 13:53:52,577
+- logger: vibe
+- msg: database_initialized
+
+### INFO - 2026-01-13 13:53:53,303
+- logger: vibe
+- msg: user_registered: e2euser
+
+### INFO - 2026-01-13 13:53:53,602
+- logger: vibe
+- msg: post_created: 1 by e2euser
+
+### INFO - 2026-01-13 13:53:54,595
+- logger: vibe
+- msg: user_registered: user1
+
+### INFO - 2026-01-13 13:53:54,600
+- logger: vibe
+- msg: post_created: 1 by user1
+
+### INFO - 2026-01-13 13:57:20,818
+- logger: vibe
+- msg: database_initialized
+
+### INFO - 2026-01-13 13:57:21,547
+- logger: vibe
+- msg: user_registered: e2euser
+
+### INFO - 2026-01-13 13:57:21,832
+- logger: vibe
+- msg: post_created: 1 by e2euser
+

@@ -18,10 +18,11 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Install dependencies
+      - name: Create venv and install Python dependencies
         run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          python -m venv .venv
+          ./.venv/bin/pip install --upgrade pip
+          ./.venv/bin/pip install -r requirements.txt
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -36,6 +37,6 @@ jobs:
 
       - name: Run E2E Playwright test
         run: |
-          PYTHONPATH=. pytest tests/test_e2e_playwright.py -q
+          PYTHONPATH=. ./.venv/bin/pytest tests/test_e2e_playwright.py -q
         env:
           CI: true
